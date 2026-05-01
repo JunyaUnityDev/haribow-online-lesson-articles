@@ -14,6 +14,6 @@
     <img src="{{ '/assets/characters/icons/' | append: include.name | append: '.png' | relative_url }}" alt="{{ include.name }}">
   </div>
   <div class="character-text">
-    {{ include.text }}
+    {{ include.text | markdownify }}
   </div>
 </div>
