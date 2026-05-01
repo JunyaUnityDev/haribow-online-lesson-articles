@@ -66,7 +66,7 @@ order: 5
 
 {% include character.html name="top" position="right" text="そうだ。そして、ハークが流していたのが **The Incredible Bongo Band** の **「Apache(アパッチ)」** だ。この曲のドラムブレイクが鳴り響いた瞬間、会場がひとつになった。のちに『ヒップホップの国歌』と呼ばれるこのビートに、みんなの心臓がシンクロした。それが、世界で最初の『ブレイクダンス』だったんだ。" %}
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/oJ04kRodM8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WY-Z6wm6TMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <small>The Incredible Bongo Band - "Apache"（1973）</small>
 
 {% include character.html name="flekky" position="left" text="その曲が鳴って、みんなが一斉に踊り出す光景……すげー、想像するだけで鳥肌立つ!" %}
