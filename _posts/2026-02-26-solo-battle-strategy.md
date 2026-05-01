@@ -119,9 +119,29 @@ order: 4
 
 です。まずは聞いてみましょう。
 
+<div class="sound-embed">
+<iframe src="https://note.com/embed/sounds/2b511e96b15a62cfe8a301b711ac9b0f" height="275" frameborder="0" scrolling="no" allow="autoplay" title="ドン(キック)"></iframe>
+</div>
+
+<div class="sound-embed">
+<iframe src="https://note.com/embed/sounds/3e39538794583d08c4117b365b935890" height="275" frameborder="0" scrolling="no" allow="autoplay" title="カッ(スネア)"></iframe>
+</div>
+
+<div class="sound-embed">
+<iframe src="https://note.com/embed/sounds/43913decae2e23aa39e2b3b40c5eb965" height="275" frameborder="0" scrolling="no" allow="autoplay" title="チッ(ハイハット)"></iframe>
+</div>
+
 次は、キック、スネア、ハイハットだけの音楽を聞いてみましょう。
 
+<div class="sound-embed">
+<iframe src="https://note.com/embed/sounds/e38ad7856cfbbd62260965c5848c3663" height="275" frameborder="0" scrolling="no" allow="autoplay" title="キック・スネア・ハイハットのみの音楽"></iframe>
+</div>
+
 何となくどう言うものかわかってきたでしょうか。それでは、完成された音楽の中から、キック、スネア、ハイハットを自分で探し出して、それぞれの規則性を探してみましょう。
+
+<div class="sound-embed">
+<iframe src="https://note.com/embed/sounds/d21793b79ca19b59f8ffe3f86df1b5c1" height="275" frameborder="0" scrolling="no" allow="autoplay" title="完成された音楽"></iframe>
+</div>
 
 何となく、規則性を見つけられましたか？初心者は、規則性を見つける練習から始めます。
 

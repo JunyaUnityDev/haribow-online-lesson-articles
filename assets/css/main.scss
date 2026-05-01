@@ -505,6 +505,22 @@ img {
       border: 0;
     }
   }
+
+  // note.com 音源埋め込み（固定高さ 275px）
+  .sound-embed {
+    margin: 16px auto;
+
+    iframe {
+      width: 100%;
+      height: 275px;
+      border: 0;
+      display: block;
+      // sound-embed では shadow / border-radius を画像と共有しない（note 側 UI が独自のため）
+      box-shadow: none;
+      border-radius: 0;
+      margin: 0;
+    }
+  }
 }
 
 .article-footer {
