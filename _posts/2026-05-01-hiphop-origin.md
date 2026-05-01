@@ -30,6 +30,9 @@ order: 5
 
 {% include character.html name="top" position="right" text="あぁ。政府もマスコミも、あの街を『見捨てた』。焼け落ちたビルが立ち並ぶ様子は『ブロンクス・バーニング』って呼ばれてな、夜になると炎が街を照らしてた。でも、そんな地獄の中で、『音』だけが希望だったんだ。" %}
 
+![焼け落ちたビルに描かれた「FALSAS PROMESAS / BROKEN PROMISES」のステンシル（南ブロンクス、1980年）]({{ '/assets/images/south-bronx-broken-promises-1980.jpg' | relative_url }})
+<small>写真: John Fekner, "Broken Promises" South Bronx（1980年）／ <a href="https://commons.wikimedia.org/wiki/File:BrokenPromises_JohnFekner.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>／ <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a></small>
+
 ---
 
 ## 🧠 第一章:ジャマイカから来た"静かな革命児"
