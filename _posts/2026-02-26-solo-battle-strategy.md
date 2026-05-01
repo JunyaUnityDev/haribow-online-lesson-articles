@@ -76,6 +76,8 @@ order: 4
 
 どんなムーブも、このどれかです。
 
+![ソロバトルの4要素]({{ '/assets/images/solo-battle-elements.jpg' | relative_url }})
+
 まずはこの構造を理解します。
 
 ### ① ベーシック
