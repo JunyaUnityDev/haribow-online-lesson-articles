@@ -485,6 +485,26 @@ img {
     border-radius: 4px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
   }
+
+  // YouTube 等の動画埋め込み（16:9 レスポンシブ）
+  .video-embed {
+    position: relative;
+    width: 100%;
+    margin: 32px auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    background: #000;
+
+    iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+  }
 }
 
 .article-footer {

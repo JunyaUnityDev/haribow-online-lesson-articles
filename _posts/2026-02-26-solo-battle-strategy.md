@@ -143,6 +143,10 @@ order: 4
 
 基本は4エイト、または8エイトごとです。
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/TtJfgEtJyeo" title="展開を使ったバトル映像" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ただし最終判断は曲によります。
 
 **同じ状態が続けば、停滞します。**
@@ -157,6 +161,10 @@ order: 4
 - まずは成立させます。
 
 基本的に入れる位置は、**2エイト目または4エイト目の5,6,7,8カウント目**です。
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/cP_cxKg69Y0" title="初心者〜中級者向け 必殺ネタ集" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -270,6 +278,14 @@ order: 4
 これで終了です。
 
 **ただの自由練習にしないことが重要です。**
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/KNMn87Q1Yok" title="バトルを意識したフリーロープ 実例1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/0RiCj4l8SyU" title="バトルを意識したフリーロープ 実例2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
