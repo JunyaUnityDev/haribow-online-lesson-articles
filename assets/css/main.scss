@@ -614,6 +614,77 @@ img {
 }
 
 // ============================================================
+// Character Balloon (対話形式記事用)
+// ============================================================
+
+.character-balloon {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin: 24px 0;
+
+  .character-icon {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+
+  .character-text {
+    flex: 1;
+    background-color: $color-off-white;
+    padding: 16px 20px;
+    border-radius: 12px;
+    line-height: 1.7;
+    position: relative;
+
+    // 吹き出しの三角(左キャラ用)
+    &::before {
+      content: '';
+      position: absolute;
+      left: -8px;
+      top: 24px;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 8px 12px 8px 0;
+      border-color: transparent $color-off-white transparent transparent;
+    }
+  }
+
+  // 右配置(キャラが右、テキストが左)
+  &.character-right {
+    flex-direction: row-reverse;
+
+    .character-text::before {
+      left: auto;
+      right: -8px;
+      border-width: 8px 0 8px 12px;
+      border-color: transparent transparent transparent $color-off-white;
+    }
+  }
+
+  @media (max-width: 768px) {
+    gap: 12px;
+
+    .character-icon {
+      width: 60px;
+      height: 60px;
+    }
+
+    .character-text {
+      padding: 12px 16px;
+      font-size: 14px;
+    }
+  }
+}
+
+// ============================================================
 // Footer
 // ============================================================
 

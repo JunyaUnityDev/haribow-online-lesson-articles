@@ -9,3 +9,9 @@ technique:
   description: "ダブルダッチのソロパフォーマンスを磨く実践論"
   color: "#7A6E63"
   slug: technique
+
+culture:
+  name: "文化 / 歴史"
+  description: "ダブルダッチの背景にあるストリートカルチャー、ヒップホップの起源"
+  color: "#B89968"
+  slug: culture

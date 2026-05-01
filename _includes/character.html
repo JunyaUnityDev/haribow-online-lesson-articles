@@ -1,0 +1,19 @@
+{%- comment -%}
+  キャラクター吹き出し用 include
+
+  使い方:
+    {% include character.html name="flekky" position="left" text="セリフ" %}
+    {% include character.html name="top" position="right" text="セリフ" %}
+
+  name: flekky / top / maya / shine
+  position: left / right
+{%- endcomment -%}
+
+<div class="character-balloon character-{{ include.position }}">
+  <div class="character-icon">
+    <img src="{{ '/assets/characters/' | append: include.name | append: '.png' | relative_url }}" alt="{{ include.name }}">
+  </div>
+  <div class="character-text">
+    {{ include.text }}
+  </div>
+</div>
