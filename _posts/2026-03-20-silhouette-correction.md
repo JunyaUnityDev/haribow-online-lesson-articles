@@ -90,13 +90,13 @@ order: 2
 まず、本当に右も左もわからない人、まず興味が無い人は、
 
 - とりあえず自分のサイズのワンサイズ上の服を買う
-- カラーコンビネーションを知り、持ってる服の色の組み合わせ方を考えてみる
+- [カラーコンビネーション](https://otonanofashion.com/color-wheel/)を知り、持ってる服の色の組み合わせ方を考えてみる
 
 から始めるといいと思います。
 
 とりあえずアナロジーから始めるのをお勧めします。
 
-カラーコンビネーションを強めに押し出しているブランド、個人的に好きなスケーターファッションブランドとして、APPLE BUTTER STORE があります。
+カラーコンビネーションを強めに押し出しているブランド、個人的に好きなスケーターファッションブランドとして、[APPLE BUTTER STORE](https://www.instagram.com/apple_butter_store?igsh=YXhjcmloNXV0MjYz) があります。
 
 ---
 
@@ -129,6 +129,16 @@ order: 2
 
 よく言われるのが、脇にペットボトル1本を挟んでいるような意識です。
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/B77Io6ByiDI" title="シルエット矯正 実例1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/aB4EBEAG_yc" title="シルエット矯正 実例2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> ※ 動画内のテロップに「シルエット強制」とありますが、正しくは「矯正」です。すみません。
+
 ---
 
 ## まとめ
@@ -142,5 +152,3 @@ order: 2
 そのため、時間はかかります。
 
 ただ、ここを乗り越えることで、見え方は大きく変わります。
-
-> ※ この記事は文章のみで構成されています。実際の動きや参考映像は、後日追加予定です。
