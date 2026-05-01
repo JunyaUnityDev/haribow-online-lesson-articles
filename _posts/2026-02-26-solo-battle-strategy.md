@@ -167,6 +167,8 @@ order: 4
 - **展開** → 4または8エイトの区切りのあとです。
 - **必殺** → 後半のカウントで印象を作るときです。
 
+![エイト構造の整理]({{ '/assets/images/solo-battle-eight-structure.png' | relative_url }})
+
 ロープに入る前に、どこで何を使うかを一度整理します。
 
 ---
@@ -176,6 +178,8 @@ order: 4
 期間では決めません。出来たら進みます。
 
 次は、初心者・中級者・上級者それぞれの戦い方を解説します。自分に合った段階の部分を読んでみましょう。
+
+![段階的習得モデル(三層ピラミッド)]({{ '/assets/images/solo-battle-pyramid.jpg' | relative_url }})
 
 ### 段階1｜初心者
 
@@ -250,6 +254,8 @@ order: 4
 
 ## 5. バトルを意識したフリーロープ
 
+![フリーロープ設計テンプレート(1分間)]({{ '/assets/images/solo-battle-freerope-template.png' | relative_url }})
+
 ロープに入る前に考えます。
 
 - どこで展開を入れるか
@@ -274,6 +280,8 @@ order: 4
 このとき、心理学で言う「フロー状態（Flow State）」に近い集中が起きることがあります。
 
 フローとは、技能レベルと課題難易度が高い水準で釣り合ったときに生じる集中状態です。
+
+![フロー状態の説明図(心理モデル)]({{ '/assets/images/solo-battle-flow-state.png' | relative_url }})
 
 特徴は、
 
