@@ -505,11 +505,28 @@ img {
 
   figcaption {
     font-family: $font-serif;
-    font-size: 16px;
+    font-size: 18px;
     color: $color-charcoal;
     margin-top: 16px;
     letter-spacing: 0.1em;
+    line-height: 1.6;
   }
+
+  .profile-role {
+    display: block;
+    font-family: $font-sans;
+    font-size: 13px;
+    color: $color-dark-beige;
+    letter-spacing: 0.05em;
+    margin-top: 6px;
+  }
+}
+
+// 経歴リスト内の補足情報（オトギリのDL数等）
+.bio-detail {
+  font-size: 13px;
+  color: $color-dark-beige;
+  letter-spacing: 0.02em;
 }
 
 .back-link {
