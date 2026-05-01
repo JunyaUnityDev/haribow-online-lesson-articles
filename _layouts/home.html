@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1 class="hero-title">
+          <span class="hero-title-main">HARIBOW</span>
+          <span class="hero-title-sub">Online Lesson</span>
+        </h1>
+        <p class="hero-tagline">{{ site.tagline }}</p>
+      </div>
+
+      <div class="hero-side">
+        <a href="{{ '/category/mindset/' | relative_url }}">思想 / 継続の科学</a>
+        <a href="{{ '/category/technique/' | relative_url }}">技術 / ソロ研究</a>
+        <a href="{{ '/articles/' | relative_url }}">すべての記事</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="latest-articles">
+  <div class="container">
+    <h2 class="section-title">最新の記事</h2>
+
+    <div class="article-grid">
+      {% for post in site.posts limit:6 %}
+        {% include article-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="categories-section">
+  <div class="container">
+    <h2 class="section-title">カテゴリ</h2>
+
+    <div class="categories-grid">
+      {% for category in site.data.categories %}
+        {% assign cat_key = category[0] %}
+        {% assign cat_data = category[1] %}
+
+        <a href="{{ '/category/' | append: cat_key | append: '/' | relative_url }}" class="category-card">
+          <h3 class="category-name" style="color: {{ cat_data.color }};">{{ cat_data.name }}</h3>
+          <p class="category-description">{{ cat_data.description }}</p>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{{ content }}

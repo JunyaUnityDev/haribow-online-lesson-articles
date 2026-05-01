@@ -1,0 +1,21 @@
+<article class="article-card">
+  {% assign category = site.data.categories[include.post.category] %}
+
+  <a href="{{ include.post.url | relative_url }}" class="article-card-link">
+    {% if category %}
+      <span class="article-category" style="color: {{ category.color }};">
+        {{ category.name }}
+      </span>
+    {% endif %}
+
+    <h2 class="article-title">{{ include.post.title }}</h2>
+
+    {% if include.post.description %}
+      <p class="article-description">{{ include.post.description }}</p>
+    {% endif %}
+
+    <time class="article-date" datetime="{{ include.post.date | date_to_xmlschema }}">
+      {{ include.post.date | date: "%Y.%m.%d" }}
+    </time>
+  </a>
+</article>

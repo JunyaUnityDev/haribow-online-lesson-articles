@@ -1,0 +1,11 @@
+mindset:
+  name: "思想 / 継続の科学"
+  description: "脳の設計から考える、継続と上達の本質"
+  color: "#C68B6B"
+  slug: mindset
+
+technique:
+  name: "技術 / ソロ研究"
+  description: "ダブルダッチのソロパフォーマンスを磨く実践論"
+  color: "#7A6E63"
+  slug: technique

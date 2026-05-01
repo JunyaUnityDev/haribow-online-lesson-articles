@@ -1,0 +1,20 @@
+---
+layout: default
+title: 記事一覧
+---
+
+<section class="category-header">
+  <div class="container">
+    <h1 class="category-title">すべての記事</h1>
+  </div>
+</section>
+
+<section class="category-articles">
+  <div class="container">
+    <div class="article-grid">
+      {% for post in site.posts %}
+        {% include article-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

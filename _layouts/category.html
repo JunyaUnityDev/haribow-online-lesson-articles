@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign category = site.data.categories[page.category] %}
+{% assign category_posts = site.posts | where: "category", page.category %}
+
+<section class="category-header">
+  <div class="container">
+    <h1 class="category-title" style="color: {{ category.color }};">{{ category.name }}</h1>
+    <p class="category-description">{{ category.description }}</p>
+  </div>
+</section>
+
+<section class="category-articles">
+  <div class="container">
+    <div class="article-grid">
+      {% for post in category_posts %}
+        {% include article-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
