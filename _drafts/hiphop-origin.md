@@ -36,6 +36,9 @@ order: 5
 
 {% include character.html name="top" position="right" text="そんな街に、一人の青年がいた。名前は**クール・ハーク(DJ Kool Herc)**。彼はジャマイカ生まれで、子どもの頃から『サウンドシステム』の文化の中で育った。街にスピーカーを並べて爆音を鳴らし、MCが群衆を盛り上げる。音で人の心を動かす——それが彼の原点だった。" %}
 
+![DJ クール・ハーク（1979年）]({{ '/assets/images/dj-kool-herc-1979.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.jamafes.com/block-party" target="_blank" rel="noopener">ジャマフェス公式サイト</a>（1979年撮影）</small>
+
 {% include character.html name="flekky" position="left" text="明るい国から来たんだね。" %}
 
 {% include character.html name="top" position="right" text="そう。でもブロンクスに来てからは孤独だった。暴力と差別に囲まれて、誰も夢なんて語らない。それでもハークは思ってた。『音楽なら人を笑顔にできる』ってな。無口でおとなしいけど、芯が強い。彼の中には、音で世界を変えたいって火がくすぶってた。" %}
