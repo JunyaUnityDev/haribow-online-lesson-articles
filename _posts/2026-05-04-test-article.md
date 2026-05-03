@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "【統合テスト】Phase 3-B 動作確認用"
-description: "GitHub Actions cron + Python スクリプト + GAS LINE 配信の一連を確認するためのテスト記事"
-date: 2026-01-01
-publish_date: 2026-05-04
+title: 【統合テスト】Phase 3-B 動作確認用
+description: GitHub Actions cron + Python スクリプト + GAS LINE 配信の一連を確認するためのテスト記事
+date: 2026-05-04
 category: culture
 slug: test-article
 order: 999
