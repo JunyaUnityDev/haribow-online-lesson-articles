@@ -8,6 +8,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: /articles/:slug/
 
+# 予約公開で cron がリネームした記事の date は publish_date と同じ日。
+# UTC/JST の境界で build 時刻 < date になり得るため、未来日付も build 対象にする。
+future: true
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
