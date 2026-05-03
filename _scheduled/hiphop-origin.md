@@ -3,6 +3,7 @@ layout: article
 title: "フリッキーとトップが探るHIPHOPの起源"
 description: "団地の一室から始まった革命と、あなたの跳び方を変えるハークの哲学"
 date: 2026-05-01
+publish_date: 2026-05-15
 category: culture
 slug: hiphop-origin
 order: 5

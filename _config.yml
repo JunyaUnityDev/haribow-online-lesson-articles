@@ -22,10 +22,19 @@ defaults:
       type: "posts"
     values:
       layout: "article"
+  - scope:
+      path: ""
+      type: "scheduled"
+    values:
+      layout: "article"
+      sitemap: false
 
 collections:
   posts:
     output: true
+  scheduled:
+    output: true
+    permalink: /scheduled/:slug/
 
 exclude:
   - Gemfile

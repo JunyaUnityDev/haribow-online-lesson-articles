@@ -690,6 +690,87 @@ img {
 }
 
 // ============================================================
+// Scheduled Articles List（予約中記事一覧、運営URL専用）
+// ============================================================
+
+.scheduled-list {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 60px 24px;
+
+  .scheduled-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: $color-charcoal;
+    margin-bottom: 8px;
+  }
+
+  .scheduled-description {
+    color: $color-dark-beige;
+    margin-bottom: 40px;
+  }
+
+  .scheduled-items {
+    list-style: none;
+    padding: 0;
+  }
+
+  .scheduled-item {
+    border-bottom: 1px solid $color-warm-beige;
+    padding: 24px 0;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .scheduled-meta {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 8px;
+    font-size: 13px;
+  }
+
+  .scheduled-date {
+    color: $color-dark-beige;
+  }
+
+  .scheduled-category {
+    padding: 2px 10px;
+    border-radius: 12px;
+    background-color: $color-off-white;
+    color: $color-charcoal;
+    font-weight: 500;
+  }
+
+  .scheduled-item-title {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+
+    a {
+      color: $color-charcoal;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .scheduled-item-description {
+    color: $color-dark-beige;
+    line-height: 1.7;
+  }
+
+  .scheduled-empty {
+    color: $color-dark-beige;
+    text-align: center;
+    padding: 60px 0;
+  }
+}
+
+// ============================================================
 // Footer
 // ============================================================
 
