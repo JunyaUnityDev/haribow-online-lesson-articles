@@ -1,0 +1,52 @@
+name: Scheduled Article Publish
+
+on:
+  schedule:
+    # 毎月15日 00:00 UTC = 09:00 JST
+    - cron: '0 0 15 * *'
+  workflow_dispatch:  # 手動トリガー（テスト用）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scheduled-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Publish scheduled articles
+        id: publish
+        env:
+          GAS_WEBHOOK_URL: ${{ secrets.GAS_WEBHOOK_URL }}
+          ARTICLE_PUBLISH_SECRET: ${{ secrets.ARTICLE_PUBLISH_SECRET }}
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+        run: python .github/scripts/publish_scheduled.py
+
+      - name: Configure git
+        if: steps.publish.outputs.published_count > 0
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push
+        if: steps.publish.outputs.published_count > 0
+        run: |
+          git add _scheduled _posts
+          git commit -m "Auto-publish scheduled articles ($(date +%Y-%m-%d))"
+          git push
