@@ -39,6 +39,8 @@ order: 8
 
 ## 🎭 第一章: MISAKI ってどんな人?
 
+![HARIBOW プレイヤー兼メイク・衣装担当の MISAKI]({{ '/assets/images/misaki-portrait.jpg' | relative_url }})
+
 {% include character.html name="flekky" position="left" text="まず、MISAKIさんのこと教えてもらっていいすか?ダブルダッチ歴とか" %}
 
 **MISAKI:** ダブルダッチ歴は12年です。
@@ -308,6 +310,9 @@ order: 8
 **MISAKI:** あります!
 
 {% include character.html name="flekky" position="left" text="(さらっと言ったけど、めっちゃ気になる…)" %}
+
+![シルク・ド・ソレイユのオーディション当日、HARIBOW 5人]({{ '/assets/images/misaki-cirque-audition-team.jpg' | relative_url }})
+<small>シルク・ド・ソレイユのオーディション当日に撮影した HARIBOW 5人。この日のメイクは、衣装に合わせて MISAKI が**メンバー全員分**を担当した。「メンバーごとに、この人にはこの色」という MISAKI の言葉の実例。</small>
 
 ---
 
