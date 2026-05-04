@@ -61,6 +61,9 @@ order: 7
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ihovQMxAhBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <small>動画: "Double Dutch: The Fantastic Four | Jumping Into History"（YouTube）</small>
 
+<div class="video-embed"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FFan4DoubleDutch%2Fvideos%2F368223087575686%2F&show_text=false" frameborder="0" scrolling="no" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<small>動画: <a href="https://www.facebook.com/Fan4DoubleDutch/videos/368223087575686/" target="_blank" rel="noopener">Fantastic 4 Double Dutch @ Lincoln Center</a>（Facebook / Fantastic Four 公式ページ）</small>
+
 {% include character.html name="flekky" position="left" text="やばっ…見たい" %}
 
 {% include character.html name="maya" position="right" text="翌1981年、彼女たちはマクドナルドのCMに出演。テレビで全米に流れた" %}
