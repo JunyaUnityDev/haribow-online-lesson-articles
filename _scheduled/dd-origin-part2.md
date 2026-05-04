@@ -3,10 +3,10 @@ layout: article
 title: "Roxy の夜、4人の少女が世界を跳んだ — ダブルダッチの起源 後編 —"
 description: "ダブルダッチがヒップホップと再会した運命の夜と、お前が跳んでいる縄が背負っているもの"
 date: 2026-05-01
-publish_date: 2026-07-15
+publish_date: 2026-09-15
 category: culture
 slug: dd-origin-part2
-order: 7
+order: 9
 ---
 
 この記事(後編)を読むと、3つのものが手に入る:

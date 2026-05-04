@@ -3,10 +3,10 @@ layout: article
 title: "メイクは『女性っぽくなる』ツールじゃない — MISAKI のメンズ向け入門講座"
 description: "HARIBOWプレイヤー兼メイク担当MISAKIが教える、男性受講者向けの舞台メイク入門"
 date: 2026-05-01
-publish_date: 2026-08-15
+publish_date: 2026-07-15
 category: technique
 slug: makeup-intro-misaki
-order: 8
+order: 7
 ---
 
 この記事を読むと、3つのものが手に入る:
