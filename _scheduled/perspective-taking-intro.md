@@ -41,7 +41,13 @@ order: 10
 
 {% include character.html name="flekky" position="left" text="…(言葉に詰まる)" %}
 
-{% include character.html name="top" position="right" text="フッ。それが答えだろ。チームをまとめたきゃ、まず一番近い一人から始めろ。いいか若いの、人間関係の話、ちょっと長くなるが、聞いてけ" %}
+{% include character.html name="top" position="right" text="フッ。それが答えだろ。チームをまとめたきゃ、まず一番近い一人から始めろ。<br><br>いいか若いの。ダブルダッチってのはな、一人じゃできねえスポーツだ。縄を回す奴がいて、跳ぶ奴がいて、初めて成り立つ。**チームを組むってことは、人間関係をやるってこと**だ。<br><br>で、その力はな、ダブルダッチを越える。仕事でも、家族でも、恋愛でも、お前がこの先どこ行っても役に立つ" %}
+
+{% include character.html name="top" position="right" text="文句を言うのは簡単だ。だが、せっかくの機会だろ?学んでみたっていいんじゃねえか" %}
+
+{% include character.html name="flekky" position="left" text="…学ぶ、っすか" %}
+
+{% include character.html name="top" position="right" text="そうだ。文句で終わらせる場所じゃねえ。人間関係の話、ちょっと長くなるが、聞いてけ" %}
 
 ---
 
