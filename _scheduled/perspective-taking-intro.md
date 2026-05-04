@@ -83,7 +83,7 @@ order: 10
 
 ## 🔬 第二章: 科学が分けた「2つの違うもの」
 
-{% include character.html name="maya" position="right" text="2008年、アメリカの心理学者 Adam Galinsky(アダム・ガリンスキー)が、ある研究を発表した。<br><br>場所は **Northwestern University(ノースウェスタン大学)Kellogg School of Management**。論文は **Psychological Science** という、心理学のトップ雑誌に載った" %}
+{% include character.html name="maya" position="right" text="2008年、アメリカの心理学者 Adam Galinsky(アダム・ガリンスキー)が、ある研究を発表した。<br><br>場所は **Northwestern University(ノースウェスタン大学)Kellogg School of Management**(ケロッグ経営大学院 — アメリカの有名なビジネススクール)。論文は **Psychological Science** という、心理学のトップ雑誌に載った" %}
 
 {% include character.html name="flekky" position="left" text="心理学のトップ雑誌…" %}
 
@@ -91,7 +91,7 @@ order: 10
 
 {% include character.html name="flekky" position="left" text="…なんとなく似てるけど、確かに違うっすね" %}
 
-{% include character.html name="maya" position="right" text="そう。**頭で考える**か、**心で感じる**か。ここが分かれ道。<br><br>Galinsky たちは、152人の MBA 学生を3つのグループに分けて、交渉ゲームをやらせた。誰が一番、お互いに得する結論にたどり着けるかを調べたの" %}
+{% include character.html name="maya" position="right" text="そう。**頭で考える**か、**心で感じる**か。ここが分かれ道。<br><br>Galinsky たちは、152人の MBA 学生(MBA = Master of Business Administration、経営学を学ぶ大学院生)を3つのグループに分けて、**交渉ゲーム**(相手と取引や話し合いをする練習問題)をやらせた。誰が一番、お互いに得する結論にたどり着けるかを調べたの" %}
 
 {% include character.html name="top" position="right" text="(タバコ吸いながら)で、結果は?" %}
 
@@ -193,6 +193,22 @@ order: 10
 
 {% include character.html name="top" position="right" text="フッ、お前、ちょっと大人になったな" %}
 
+{% include character.html name="flekky" position="left" text="…でもトップさん、オレ、なんか恥ずかしいっすよ。急にアイツの話聞くって、なんか意識してるのバレバレで…" %}
+
+{% include character.html name="top" position="right" text="フッ。お前が恥ずかしいなら、相手も恥ずかしがってんだろ" %}
+
+{% include character.html name="flekky" position="left" text="えっ?" %}
+
+{% include character.html name="top" position="right" text="お前と同じだ。アイツも、本音言うのが恥ずかしいから言わねえ。だからこんな空気になってんだよ" %}
+
+{% include character.html name="maya" position="right" text="(頷く)そうね。本音を言えない人 vs 言えない人。永遠に解けないループ" %}
+
+{% include character.html name="top" position="right" text="解くにはな、誰かが先に動くしかねえ。**相手が変わるのを待つな。お前が、先に変われ**" %}
+
+{% include character.html name="flekky" position="left" text="先に…" %}
+
+{% include character.html name="top" position="right" text="それができる奴だけが、空気を変える" %}
+
 {% include character.html name="flekky" position="left" text="うっす!" %}
 
 ---
@@ -265,34 +281,37 @@ order: 10
 
 ---
 
-## 👥 登場人物
+## 👥 登場人物紹介
 
-### 🧢 フリッキー(主人公)
+{% include character.html name="flekky" position="left" text="オレ、フリッキー!19歳、ダブルダッチ歴1年8ヶ月の大学2年生っす。今回は大会前にチームがまとまんなくて、トップさんに助けを求めにきた役!" %}
 
-- 19歳、神奈川出身、大学生 + コンビニ夜勤バイト
+**フリッキー(主人公)**
+
+- 19歳、神奈川出身、大学2年生 + コンビニ夜勤バイト
 - ダブルダッチ歴1年8ヶ月
 - カッコつけてるけど、根は純粋
 - 小学生時代、テストで全部の問題が解けなかった時に何も書かずに出して「間違ってない=ノーミス=100点です」と先生に言い張った事がある
-- 口癖: 「マジで?」「やばっ」「すげー」「うっす」
-- 今回: チームメンバーとの行き違いで、トップに相談に来る
+- 口癖:「マジで?」「やばっ」「すげーすげー」
 
-### 😠 トップ(ベテラン)
+{% include character.html name="top" position="right" text="フッ…俺がトップだ。52歳、関内のレコード屋やってる。NYで覚えた人付き合いの本質、若いのに伝える役だ" %}
 
-- 52歳、大阪出身、関内のレコード屋店主
-- 元 NYC のヒップホップ・ダンサー、ダブルダッチ歴30年以上
-- Grandmaster Flash と一晩飲んだ事がある
+**トップ(ベテラン)**
+
+- 52歳、本名:三郎、関内のレコード屋店主
+- 大阪 → 23歳でNYに渡る → 35歳で日本帰国
+- ダブルダッチ歴30年以上、Grandmaster Flash と一晩飲んだ事がある
 - ある日、みんなの飲み会でタクシー代をケチるために「俺歩きで帰るわ〜」と宣言、終電2分前まで粘って奇跡のタクシー代ゼロを狙った
-- 「フッ…」が口癖、不器用な優しさ
-- 今回: NY時代に学んだ「人付き合いの本質」を、フリッキーに伝える
+- 口癖:「フッ…」「いいか、若いの」「あの頃のNYは…」
 
-### 👩 マヤ(知性派の姉さん)
+{% include character.html name="maya" position="right" text="あたし、マヤ。30歳、ダブルダッチパフォーマー兼カルチャー誌ライター。文化人類学修士。今回はゲスト出演で、研究と科学的根拠を補強する役" %}
+
+**マヤ(姉さん)**
 
 - 30歳、横浜出身、ダブルダッチパフォーマー兼カルチャー誌ライター
 - 文化人類学修士、ダブルダッチ歴15年、英仏語堪能
 - マイナーなアーティスト好きと言って、有名になった瞬間「もう違うんだよね」と言い出す。本人は「商業化されると本質が…」と論理的に説明できる
 - 観葉植物の世話が下手で全部枯らす、窪塚洋介のファンだが、彼みたいな話し方をする一般人は嫌い
-- 口癖: 「で、それのソースは?」「あんたねぇ…」「Whatever.」「悪くないじゃん」(最大の褒め言葉)
-- 今回: ゲスト出演として、研究と科学的根拠を補強する役
+- 口癖:「で、それのソースは?」「あんたねぇ…」「Whatever.」「悪くないじゃん」(最大の褒め言葉)
 
 ---
 
