@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "相手の立場で考える、ってどういうことだろう — 人間関係の最初の一歩"
-description: "心理学が教える「相手を理解する」の科学。共感と立場で考えるは、違うものだった"
+description: "心理学が教える、相手を理解する2つの方法。そして、自分の気持ちにも正直になることの大切さ"
 date: 2026-05-01
 publish_date: 2026-10-15
 category: mindset
@@ -13,7 +13,7 @@ order: 10
 
 1. **「相手の立場で考える」って、本当はどういうことか**
 2. **共感と「立場で考える」が、別物だったという科学の発見**
-3. **自分が今日からできる、人間関係の第一歩**
+3. **相手を理解する力と、自分に正直になる勇気の、両方を持つ意味**
 
 ---
 
@@ -159,7 +159,7 @@ order: 10
 
 ---
 
-## 💪 エピローグ: 今日の練習で、何ができるか
+## 💪 エピローグ: でも、自分の気持ちにも正直に
 
 {% include character.html name="flekky" position="left" text="トップさん、マヤさん。オレ、明日の練習でアイツに話しかけてみるっす" %}
 
@@ -175,6 +175,56 @@ order: 10
 
 ---
 
+{% include character.html name="flekky" position="left" text="っていうかマヤさん、ちょっと聞きたいんすけど" %}
+
+{% include character.html name="maya" position="right" text="ん?" %}
+
+{% include character.html name="flekky" position="left" text="マヤさん、いつもこんな冷静に相手の立場で考えてるんすか?なんか、すげー人格者って感じがするっす" %}
+
+{% include character.html name="maya" position="right" text="(本を閉じる)…あー。それね" %}
+
+{% include character.html name="top" position="right" text="(タバコの煙を吐く)…マヤ、お前、何かあるな?" %}
+
+{% include character.html name="maya" position="right" text="あたしね、昔チームにいたのよ。窪塚洋介みたいな喋り方の一般人が" %}
+
+{% include character.html name="flekky" position="left" text="…?" %}
+
+{% include character.html name="maya" position="right" text="『俺ぇ〜、マジでぇ〜、それマジリスペクトっすわぁ〜』みたいな" %}
+
+{% include character.html name="flekky" position="left" text="あ、あの感じ…" %}
+
+{% include character.html name="maya" position="right" text="あたし、それ、本当に無理だったの。価値観とかじゃなくて、生理的に。3ヶ月我慢して、相手の立場で考えようとしてみた。事情を想像した。動機を考えた" %}
+
+{% include character.html name="top" position="right" text="…で?" %}
+
+{% include character.html name="maya" position="right" text="ぶちのめした" %}
+
+{% include character.html name="flekky" position="left" text="えっ" %}
+
+{% include character.html name="top" position="right" text="フッ" %}
+
+{% include character.html name="maya" position="right" text="言葉でね。論理的に。1時間。本人と他のメンバーが見てる前で。完全勝利" %}
+
+{% include character.html name="flekky" position="left" text="お、おう…" %}
+
+{% include character.html name="maya" position="right" text="あんたたち、勘違いしないで。今日の話は本当よ。研究も全部正しい。相手の立場で考えるのは、人生で大切なこと。<br><br>でもね、もう一つ大切なことがある。<br><br>**自分の気持ちにも、正直になること**" %}
+
+{% include character.html name="maya" position="right" text="どんなに相手の立場を考えても、どうしても無理なものは無理。我慢し続けたら、自分が壊れる。その時は、ちゃんとぶつかる。相手の立場を考えた上で、自分の本音を伝える。それも、人生に必要なことなの" %}
+
+{% include character.html name="flekky" position="left" text="(小声で)…おお…" %}
+
+{% include character.html name="top" position="right" text="(小声で)…おお…" %}
+
+{% include character.html name="maya" position="right" text="何よ、その目は" %}
+
+{% include character.html name="flekky" position="left" text="いや、なんでも、ないっす…" %}
+
+{% include character.html name="top" position="right" text="(タバコ消しながら)…俺は何も見てない、何も聞いてない" %}
+
+{% include character.html name="maya" position="right" text="(笑って)Whatever. じゃ、今日の話、覚えとけ。3つよ" %}
+
+---
+
 **人間関係に悩んだ時。**
 
 『相手が悪い』と決めつける前に、3つだけ。
@@ -185,7 +235,11 @@ order: 10
 
 世界中の研究で確認されてる、人間関係の最初の一歩。
 
-**全部、明日から、自分の周りで始められる。**
+そして、もう一つ。
+
+**自分の気持ちにも、正直に。**
+
+両方を、忘れないこと。
 
 ---
 
@@ -228,6 +282,11 @@ order: 10
 - **Galinsky, A. D., & Moskowitz, G. B. (2000)** — "Perspective-Taking: Decreasing Stereotype Expression, Stereotype Accessibility, and In-Group Favoritism." *Journal of Personality and Social Psychology, 78(4), 708-724.*
 - **Todd, A. R., Bodenhausen, G. V., Richeson, J. A., & Galinsky, A. D. (2011)** — "Perspective Taking Combats Automatic Expressions of Racial Bias." *Journal of Personality and Social Psychology, 100(6), 1027-1042.*
 - **Carl Rogers (1957, 1980)** — Active Listening / Person-Centered Therapy の提唱者。"On Becoming a Person" (1961), "A Way of Being" (1980)
+
+### 「自分の気持ちに正直になる」の心理学的裏付け
+
+- **Deci, E. L., & Ryan, R. M. (1985)** — 自己決定理論（Self-Determination Theory）。自分の本音と一致した行動が、心理的幸福感に直結することを実証。"Intrinsic Motivation and Self-Determination in Human Behavior" (Plenum, 1985)
+- **Wood, A. M., Linley, P. A., Maltby, J., Baliousis, M., & Joseph, S. (2008)** — 本来性（authenticity）研究。自分らしくあることと心の健康の相関。"The authentic personality: A theoretical and empirical conceptualization and the development of the Authenticity Scale" (*Journal of Counseling Psychology*, 55(3), 385-399)
 
 ### 補足リソース
 
