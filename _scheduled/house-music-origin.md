@@ -69,6 +69,9 @@ order: 13
 
 {% include character.html name="top" position="right" text="爆破の瞬間、観客はグラウンドに乱入。**暴動化**。<br><br>**約40人逮捕**。第2試合は **没収試合**(警察が安全確保できず、試合中止)" %}
 
+![1979年7月12日、コミスキー・パークでのディスコ・デモリッション・ナイト。爆破されたレコードの炎を前に乱入する観客]({{ '/assets/images/disco-demolition-night-1979.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.chicagohistory.org/disco-demolition-night/" target="_blank" rel="noopener">Chicago History Museum — Disco Demolition Night</a></small>
+
 {% include character.html name="top" position="right" text="ある人はこう言った。『あれは野球の試合じゃない、**儀式**だった』<br><br>**ディスコを殺す儀式**" %}
 
 {% include character.html name="flekky" position="left" text="…" %}
@@ -99,6 +102,9 @@ order: 13
 
 {% include character.html name="top" position="right" text="そう。剥き出しのコンクリート、高い天井、薄暗い照明。**『Warehouse(倉庫)』って名前は、文字通り** だった。<br><br>オーナーは **Robert 『Robbie』 Williams(ロバート・『ロビー』・ウィリアムズ)**。<br><br>彼は、シカゴの黒人ゲイ・ラテン系コミュニティのために、新しいクラブを作りたかった" %}
 
+![Warehouse の店内。ミラーボールが下がり、踊る人々]({{ '/assets/images/the-warehouse-chicago.jpg' | relative_url }})
+<small>写真出典: <a href="https://blockclubchicago.org/2023/06/21/the-warehouse-birthplace-of-house-music-is-now-a-chicago-landmark/" target="_blank" rel="noopener">Block Club Chicago — The Warehouse, Birthplace Of House Music, Is Now A Chicago Landmark</a></small>
+
 {% include character.html name="top" position="right" text="当時、シカゴには **Dugan's Bistro** っていう人気のゲイクラブがあったが、**黒人には冷たかった**。<br><br>ロビーは、彼らのための場所を作ろうとした" %}
 
 ---
@@ -114,6 +120,9 @@ order: 13
 ## 🎧 第四章: Frankie Knuckles、22歳の青年
 
 {% include character.html name="top" position="right" text="**Frankie Knuckles**。<br><br>本名 Francis Warren Nicholls Jr.。1955年1月18日、NY ブロンクス生まれ。<br><br>Larry Levan の親友で、10代の頃から一緒にディスコに通ってた" %}
+
+![DJ ブースの Frankie Knuckles（"Godfather of House"）]({{ '/assets/images/frankie-knuckles-portrait.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.theguardian.com/music/frankie-knuckles" target="_blank" rel="noopener">The Guardian — Frankie Knuckles</a></small>
 
 {% include character.html name="top" position="right" text="**FIT(Fashion Institute of Technology)で繊維デザイン** を学びながら、Larry と一緒に NY のクラブで DJ を始めた。<br><br>Continental Baths、The Gallery、David Mancuso の Loft — **『ノンアルコール・ノードラッグ・ノーセックス』を掲げた招待制パーティー**" %}
 
@@ -179,6 +188,9 @@ order: 13
 
 {% include character.html name="top" position="right" text="**ジャンル名の誕生**。<br><br>1985年、Chip E. は『Time to Jack』をリリース。**Warehouse での踊りのスタイルを『Jacking』と呼び**、それが genre を定義する曲になった。<br><br>1987年、Frankie 自身が Jamie Principle と作った **『Your Love』** をリリース。**今でも史上最高のハウス曲の一つ** と言われる" %}
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/f8HdqPej-Ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<small>動画: Frankie Knuckles & Jamie Principle - "Your Love" (1987)</small>
+
 ---
 
 ## 🌐 第七章: そして、世界へ
@@ -196,6 +208,9 @@ order: 13
 ---
 
 {% include character.html name="top" position="right" text="2014年、Frankie は59歳で亡くなった。<br><br>でも、その10年前、2004年の8月25日、シカゴ市は彼の名誉を讃えて、ある街の名前を変えた。<br><br>**Frankie Knuckles Way**。<br><br>Warehouse があった、Jefferson Street の Jackson Boulevard と Madison Street の間。<br><br>そして、その日を **『Frankie Knuckles Day』** と宣言した" %}
+
+![シカゴの街角に掲げられた『Frankie Knuckles Way』のサイン]({{ '/assets/images/frankie-knuckles-way-sign.jpg' | relative_url }})
+<small>画像出典: <a href="https://www.youtube.com/watch?v=aNxs9P0CrBc" target="_blank" rel="noopener">YouTube — Frankie Knuckles Way（動画サムネイル）</a></small>
 
 {% include character.html name="top" position="right" text="2023年、**Warehouse の建物自体が、シカゴ歴史的建造物に指定** された" %}
 

@@ -109,6 +109,9 @@ order: 14
 
 {% include character.html name="top" position="right" text="**第一の要素: DJ(Disc Jockey)**<br><br>Kool Herc が始めた『ブレイクの2枚使い』。<br><br>Grandmaster Flash が完成させた『クイックミックス』『カッティング』『バックスピン』。<br><br>そして、後に **Grand Wizzard Theodore(グランド・ウィザード・セオドア)が、12歳でスクラッチを発明した**" %}
 
+![DJ プレイ中の Grandmaster Flash]({{ '/assets/images/grandmaster-flash-dj.jpg' | relative_url }})
+<small>撮影: Mika Väisänen（1999年）／ <a href="https://commons.wikimedia.org/wiki/File:Dj_Grandmaster_Flash-01-mika.jpg" target="_blank" rel="noopener">Wikimedia Commons</a> ／ <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a></small>
+
 {% include character.html name="flekky" position="left" text="12歳!?" %}
 
 {% include character.html name="top" position="right" text="ある日、家でレコードを聴いてた時、母親に怒鳴られて、レコードを慌てて止めようとして、針が動いた。<br><br>そこから生まれた音を、**『これだ』と思って練習した**。<br><br>**事故から、世界が広がる**" %}
@@ -154,6 +157,9 @@ order: 14
 
 {% include character.html name="top" position="right" text="**第四の要素: Graffiti(グラフィティ)**<br><br>1960年代後半から、NY の地下鉄や壁に **タグ(自分の名前)を書く文化** が始まってた。<br><br>**TAKI 183**(1971年に NY Times に取り上げられた最初のグラフィティライター)。<br><br>タグから、ピース、バーナー、ホールカー(車両全体を覆う作品)へと、表現が広がっていく" %}
 
+![NY 地下鉄、グラフィティで覆われた車両（1973年）]({{ '/assets/images/nyc-subway-graffiti-1973.jpg' | relative_url }})
+<small>撮影: Erik Calonius（1973年5月）／ <a href="https://commons.wikimedia.org/wiki/File:Heavily_tagged_subway_car_in_NY.jpg" target="_blank" rel="noopener">Wikimedia Commons / NARA</a>（Public Domain）</small>
+
 ---
 
 {% include character.html name="top" position="right" text="グラフィティは、**ヒップホップの『視覚』要素** として位置付けられた。<br><br>1980年代初頭、**Phase 2、Futura 2000、Fab 5 Freddy、Lady Pink** など、グラフィティ・アーティストたちが、ヒップホップ・シーンと結びついていく。<br><br>特に **Fab 5 Freddy** は、グラフィティとヒップホップ音楽を結びつけた重要な人物" %}
@@ -180,6 +186,9 @@ order: 14
 ---
 
 {% include character.html name="top" position="right" text="1983年、映画『Wild Style』が公開。<br><br>**世界が、ヒップホップを『文化』として認識した瞬間**。<br><br>**4つの叫びが、1つの文化になった**" %}
+
+![映画『Wild Style』(1983) ポスター]({{ '/assets/images/wild-style-1983-poster.jpg' | relative_url }})
+<small>画像出典: <a href="https://www.rottentomatoes.com/m/wild_style" target="_blank" rel="noopener">Rotten Tomatoes — Wild Style</a></small>
 
 ---
 
