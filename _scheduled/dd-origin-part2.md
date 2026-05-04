@@ -79,6 +79,10 @@ order: 7
 ![1982年の The Roxy のフロアのイメージ]({{ '/assets/images/ai-generated/dd-origin-part2-ch2-roxy-club.jpeg' | relative_url }})
 <small>※ 写真はイメージです。AI（Gemini）で生成。</small>
 
+{% include character.html name="flekky" position="left" text="マヤさん…オレが目指してる NDDL の大会って、こんな歴史を背負ってたんすね。なんか、急に燃えてきたっす!" %}
+
+{% include character.html name="maya" position="right" text="(微笑んで)あんたが目指す NDDL は、ただの大会じゃないの。<br><br>物干しロープから始まって、警官2人が sport に組み立て直して、Roxy のフロアでヒップホップとぶつかって、ヨーロッパまで渡った縄。<br><br>その全部が、積み重なってる場所よ" %}
+
 ---
 
 ## 🎵 第三章:5つのカルチャーが、同じ床の上で生きていた夜
