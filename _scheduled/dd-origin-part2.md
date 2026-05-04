@@ -169,31 +169,9 @@ order: 7
 
 ## 💭 第五章:お前の縄が背負っているもの
 
-{% include character.html name="maya" position="right" text="マイクは後にこう言った" %}
+{% include character.html name="maya" position="right" text="マイクは後にこう言った。<br>『It belonged to the streets of Harlem.』<br>『これは、ハーレムの街のものだった』" %}
 
-{% include character.html name="maya" position="right" text="『It belonged to the streets of Harlem.』" %}
-
-{% include character.html name="maya" position="right" text="『これは、ハーレムの街のものだった』" %}
-
-{% include character.html name="maya" position="right" text="(少し間)…全部、振り返ってみて" %}
-
-{% include character.html name="maya" position="right" text="物干しロープを2本にして街角に出た少女たち" %}
-
-{% include character.html name="maya" position="right" text="公園で女の子の惨敗を見て『何かしたい』と思った警官、マイク" %}
-
-{% include character.html name="maya" position="right" text="その電話を受け取った同僚、デイブ" %}
-
-{% include character.html name="maya" position="right" text="600人の子供たちが集まった、1974年2月14日" %}
-
-{% include character.html name="maya" position="right" text="Lincoln Center に立った Fantastic Four" %}
-
-{% include character.html name="maya" position="right" text="The Roxy で Bboy と並んで跳んだ4人" %}
-
-{% include character.html name="maya" position="right" text="パリの夜、ヨーロッパに渡った縄" %}
-
-{% include character.html name="maya" position="right" text="その全部が、あんたのロープに繋がってる" %}
-
-{% include character.html name="maya" position="right" text="あんたが跳ぶ時、その50年が、一緒に跳んでる" %}
+{% include character.html name="maya" position="right" text="(少し間)…全部、振り返ってみて。<br><br>物干しロープを2本にして街角に出た少女たち。<br>公園で女の子の惨敗を見て『何かしたい』と思った警官、マイク。<br>その電話を受け取った同僚、デイブ。<br>600人の子供たちが集まった、1974年2月14日。<br>Lincoln Center に立った Fantastic Four。<br>The Roxy で Bboy と並んで跳んだ4人。<br>パリの夜、ヨーロッパに渡った縄。<br><br>その全部が、あんたのロープに繋がってる。<br>あんたが跳ぶ時、その50年が、一緒に跳んでる" %}
 
 {% include character.html name="flekky" position="left" text="…" %}
 
