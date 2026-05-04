@@ -64,7 +64,7 @@ order: 5
 {% include character.html name="top" position="right" text="場所は**1520セジウィック・アベニュー**。コンクリートの床、チカチカ光る蛍光灯、汗とタバコの匂い。でもハークはその狭い部屋に、手作りのスピーカーを並べて2台のターンテーブルを置いた。そして、レコードの中の『ドラムだけの部分(ブレイク)』を、交互に繋いで永遠に流した。それまで誰もやったことがなかった。会場の空気が変わった。子どもたちは体をひねり、回転し、床に手をついて踊り始めた。『暴力』のかわりに、『踊り』で叫んだんだ。『オレたちはここにいる!』って。" %}
 
 ![1520 セジウィック・アベニュー（ブロンクス、現在の外観）]({{ '/assets/images/1520-sedgwick-avenue.jpg' | relative_url }})
-<small>写真: Bigtimepeace, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1520_Sedwick_Ave.,_Bronx,_New_York1.JPG)（Public Domain）</small>
+<small>撮影: Bigtimepeace（2009年）／ [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1520_Sedwick_Ave.,_Bronx,_New_York1.JPG)（Public Domain）</small>
 
 {% include character.html name="flekky" position="left" text="団地の部屋が…希望のステージになったんだね。" %}
 

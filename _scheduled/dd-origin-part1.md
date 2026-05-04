@@ -65,7 +65,7 @@ order: 6
 {% include character.html name="maya" position="right" text="1971年、ハーレムのマーカス・ガーヴィ公園" %}
 
 ![ハーレム、Marcus Garvey Park（マーカス・ガーヴィ公園）の階段]({{ '/assets/images/marcus-garvey-park-harlem.jpg' | relative_url }})
-<small>写真: Linda Fletcher / <a href="https://commons.wikimedia.org/wiki/File:Marcus_Garvey_Park,_Harlem,_NYC.jpg" target="_blank" rel="noopener">Wikimedia Commons</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>（2022年撮影）</small>
+<small>撮影: Linda Fletcher（2022年）／ <a href="https://commons.wikimedia.org/wiki/File:Marcus_Garvey_Park,_Harlem,_NYC.jpg" target="_blank" rel="noopener">Wikimedia Commons</a> ／ <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></small>
 
 {% include character.html name="maya" position="right" text="NYPDの刑事に、ユリシーズ・ウィリアムズって男がいた。みんなは『マイク・ザ・コップ(街のマイク)』って呼んでた" %}
 
@@ -195,7 +195,7 @@ order: 6
 {% include character.html name="maya" position="right" text="メトロポリタン・オペラがある、世界最高峰の文化施設。クラシックの聖地。そこで、ハーレムの女の子たちが縄を跳んだ" %}
 
 ![Lincoln Center プラザの Revson Fountain（リブソン噴水）]({{ '/assets/images/lincoln-center-fountain.jpg' | relative_url }})
-<small>写真: Julie Feinstein / <a href="https://commons.wikimedia.org/wiki/File:Lincoln_Center_Fountain_(4855440782).jpg" target="_blank" rel="noopener">Wikimedia Commons</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>（2010年撮影）</small>
+<small>撮影: Julie Feinstein（2010年）／ <a href="https://commons.wikimedia.org/wiki/File:Lincoln_Center_Fountain_(4855440782).jpg" target="_blank" rel="noopener">Wikimedia Commons</a> ／ <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a></small>
 
 {% include character.html name="maya" position="right" text="物干しロープから始まった遊びが、世界の文化施設に立つまで、たった3年" %}
 
