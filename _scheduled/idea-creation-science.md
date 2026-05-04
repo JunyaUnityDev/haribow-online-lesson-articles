@@ -203,6 +203,18 @@ order: 12
 
 {% include character.html name="flekky" position="left" text="(立ち上がる)うっす!行ってきます!" %}
 
+{% include character.html name="top" position="right" text="待て、若いの。もう一つだけ、伝えとく" %}
+
+{% include character.html name="flekky" position="left" text="?" %}
+
+{% include character.html name="top" position="right" text="『どんなチームだったら勝てる』『どんなジャンルが好きになれば勝てる』。そういう発想は、結局 **流行りに乗っかるだけ** だ。それやってる奴は、最後は有象無象に紛れる" %}
+
+{% include character.html name="top" position="right" text="お前がやることは違う。<br><br>**自分のチーム**で、**自分たちの好きなこと**で、どうやって勝つか。それを考えろ" %}
+
+{% include character.html name="top" position="right" text="ここにいる、このメンバーで、お前らが本当に好きなものを掛け算して、世界に1つしかないものを作る。<br><br>**その心構えだけは、絶対に手放すな**" %}
+
+{% include character.html name="flekky" position="left" text="…うっす!" %}
+
 {% include character.html name="top" position="right" text="(タバコ消しながら、独り言)…フッ、若いの。お前の番だ" %}
 
 ---
@@ -220,6 +232,16 @@ order: 12
 そして、最後に。
 
 **「新しい技は無い」じゃない。「まだ組み合わせてない」だけだ。**
+
+組み合わせるのは、
+
+**「どこかの誰かの好き」**じゃない。
+
+**「あなたと、あなたのチームの好き」**だ。
+
+流行りに乗って有象無象に紛れるな。
+
+**自分のチームで、自分たちの好きなことで、勝ち方を作れ。**
 
 明日からの100個、書き出してみよう。
 
