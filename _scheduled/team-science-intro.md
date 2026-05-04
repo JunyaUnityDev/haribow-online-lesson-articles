@@ -57,11 +57,23 @@ order: 11
 
 ## 🛡 第二章: 1番目の要素 — 心理的安全性
 
-{% include character.html name="maya" position="right" text="1つ目、これが一番大事。**心理的安全性(psychological safety)**" %}
+### 強いチームは「カリスマ・戦略・個人能力」だけじゃ作れない
+
+{% include character.html name="flekky" position="left" text="強いチームって、すげーリーダーがいるとか、戦略が完璧とか、メンバーが超優秀とか、そういうイメージあるんすけど" %}
+
+{% include character.html name="maya" position="right" text="そう思う人、多い。でも、研究の結論は違うの。<br><br>**カリスマ的リーダー**でも、**高度な戦略**でも、**個人の能力**でもない。それだけじゃ、強いチームはできない" %}
+
+{% include character.html name="flekky" position="left" text="えっ、じゃあ何が要るんすか?" %}
+
+{% include character.html name="maya" position="right" text="**安心な環境**。それだけ。<br><br>これね、ダブルダッチに限らない話。家族でも、職場でも、学校でも、どんな人間関係でも同じ" %}
+
+### 「ここにいていい」と感じられること = 心理的安全性
+
+{% include character.html name="maya" position="right" text="その安心な環境を、研究では **心理的安全性(psychological safety)** って呼ぶ" %}
 
 {% include character.html name="flekky" position="left" text="しんり、てき、あんぜんせい?" %}
 
-{% include character.html name="maya" position="right" text="噛みすぎ(笑)。簡単に言うと『間違えても、怒られないって信じられること』" %}
+{% include character.html name="maya" position="right" text="噛みすぎ(笑)。簡単に言うと『**ここにいていい、発言していい、間違えても怒られない**』って信じられること" %}
 
 {% include character.html name="flekky" position="left" text="えっ、それだけ?" %}
 
@@ -81,7 +93,89 @@ order: 11
 
 {% include character.html name="flekky" position="left" text="…たしかに。失敗が怖いと、何もできないっす" %}
 
-{% include character.html name="maya" position="right" text="そう。**ミスしてもOK、と思えるチームは、強い**。これが1番目" %}
+### チームの安心を壊す、3つの妨害行動
+
+{% include character.html name="flekky" position="left" text="逆に、安心を壊すのって、何なんすか?" %}
+
+{% include character.html name="maya" position="right" text="2006年、Felps たちの研究で、**3つの妨害行動** が見つかってる<br><br>① **攻撃的な言葉**(人を責める、馬鹿にする、否定する)<br>② **怠惰な態度**(やる気のない素振り、集中してない、責任を放棄する)<br>③ **愚痴・文句**(場の空気を後ろ向きにする発言)<br><br>この3つは、どれも同じくらい、チームのパフォーマンスを下げる" %}
+
+{% include character.html name="flekky" position="left" text="3つとも、同じくらい?" %}
+
+{% include character.html name="maya" position="right" text="そう。意外と、**愚痴**が一番見落とされる。攻撃的な人は分かりやすいけど、『マジ無理』『あの人ヤバくない?』を繰り返す人がいると、チームの空気はじわじわ下がる" %}
+
+### 妨害行動は「伝染」する
+
+{% include character.html name="maya" position="right" text="で、もっとヤバいのが、これ。**妨害行動は、伝染する**" %}
+
+{% include character.html name="flekky" position="left" text="伝染?" %}
+
+{% include character.html name="maya" position="right" text="1人がやってると、他のメンバーも引きずられる。Felps の研究では、こういう妨害行動が混じったチームは、**パフォーマンスが3〜40%下がる** ことが確認された<br><br>つまり、メンバー選びでは、**能力よりも態度**を見るべきってこと" %}
+
+{% include character.html name="flekky" position="left" text="能力より、態度…!?" %}
+
+{% include character.html name="maya" position="right" text="超優秀でも、攻撃的・怠惰・愚痴が多い人がチームにいると、チーム全体が引きずられる。逆に、能力は普通でも、ポジティブな人がいると、チーム全体が上がる" %}
+
+### マシュマロ・チャレンジ — MBA学生 vs 幼稚園児
+
+{% include character.html name="maya" position="right" text="有名な実験を紹介する。**マシュマロ・チャレンジ**(Tom Wujec が設計)<br><br>パスタ20本、ヒモ、テープ、マシュマロ1個。これで18分以内に、できるだけ高い塔を作って、上にマシュマロを乗せる、って課題" %}
+
+{% include character.html name="flekky" position="left" text="楽しそう" %}
+
+{% include character.html name="maya" position="right" text="いろんなチームでやってみた結果がね、笑える。<br><br>**MBA学生のチーム: 平均25cm**。**幼稚園児のチーム: 平均60cm**" %}
+
+{% include character.html name="flekky" position="left" text="ええっ!?幼稚園児の方が!?" %}
+
+{% include character.html name="maya" position="right" text="そう。なぜか?<br><br>MBA学生は、最初にリーダーを決めて、戦略を議論して、最後にマシュマロを乗せる。だから時間切れで失敗する。<br><br>幼稚園児は、ずっと試行錯誤する。失敗を恐れない。**安心して試し合える関係性** がある。だから高く積める" %}
+
+{% include character.html name="flekky" position="left" text="個人能力じゃなくて、関係性…" %}
+
+{% include character.html name="maya" position="right" text="そう。これが、**心理的安全性 > 個人能力** の証拠。Wujec が何百ものチームでこの実験をやって、繰り返し確認されてる" %}
+
+### 妨害者がいても、「中和する人」がいれば救える
+
+{% include character.html name="flekky" position="left" text="でも、チームに妨害する人がいたら、もう手遅れっすか?" %}
+
+{% include character.html name="maya" position="right" text="そうとも限らない。**中和する人** がいれば、悪影響は抑えられる、って研究もある<br><br>中和する人っていうのは、攻撃的な発言や愚痴を、**前向きな言葉に変える人**。<br><br>『そうかもしれないけど、こういう見方もあるよね』<br>『分かる、でもまずはやってみよう』<br>みたいに、場の空気を、ふっと前に戻す" %}
+
+{% include character.html name="flekky" position="left" text="1人でいいんすか?" %}
+
+{% include character.html name="maya" position="right" text="1人でいい。でも、その1人がいるかいないかで、チームの空気が大きく変わる。<br><br>あんた、それになれるか?" %}
+
+{% include character.html name="flekky" position="left" text="…なれるかは分かんないけど、目指してみるっす" %}
+
+### 心理的安全性を深める、4つの小さなこと
+
+{% include character.html name="flekky" position="left" text="で、心理的安全性を高めるには、何すればいいんすか?" %}
+
+{% include character.html name="maya" position="right" text="大きな改革はいらない。研究で分かってる、**4つの小さなこと**:<br><br>① **親密な交流**(仕事の話だけじゃなく、人として関わる時間)<br>② **雑談**(メイン議題以外の、軽い会話)<br>③ **名前を覚える**(一人ひとりを認識する基本)<br>④ **個人として尊重する**(『◯◯さん』として見る、機能じゃなく)<br><br>合理性だけじゃ、人は動かない。**『自分を見てくれている』**という感覚が、チーム力を作る" %}
+
+{% include character.html name="flekky" position="left" text="…雑談、減ってたかも、最近" %}
+
+### リーダーは権力を振りかざさない
+
+{% include character.html name="maya" position="right" text="で、最後。これは大事なメッセージ。<br><br>**リーダーが権力を振りかざすチームは、弱い**" %}
+
+{% include character.html name="flekky" position="left" text="えっ、リーダーは強い方が…?" %}
+
+{% include character.html name="maya" position="right" text="違う。**怖いリーダー**がいるチームは、メンバーが本音を言えない。本音を言えないと、心理的安全性が崩れる。心理的安全性が崩れると、5要素の土台が崩れる。<br><br>強いリーダーは、権威で押し付けない。代わりに、**『あなたはここにいていい』** を、行動で伝える。<br><br>名前を呼ぶ。話を聞く。失敗を責めない。雑談する。それだけで、チームは強くなる" %}
+
+{% include character.html name="flekky" position="left" text="…リーダーは命令する人、じゃないんすね" %}
+
+{% include character.html name="maya" position="right" text="違う。**安心を作る人**よ" %}
+
+### いいチームは、そもそも楽しい
+
+{% include character.html name="flekky" position="left" text="…なんか、当たり前のこと多いっすけど、できてないっすね、うちのチーム" %}
+
+{% include character.html name="maya" position="right" text="そうね。でもね、これって、勉強じゃないの。<br><br>**いいチームは、そもそも楽しい**。攻撃的な言葉が飛ばないから、安心。雑談ができるから、仲良くなる。安心して試せるから、新しい技がバンバン生まれる。それが楽しいから、また集まる" %}
+
+{% include character.html name="flekky" position="left" text="…" %}
+
+{% include character.html name="maya" position="right" text="あたしね、**自分と仲間が楽しむ。その延長にあるダブルダッチが、一番好き**なの。<br><br>強いから楽しいんじゃない。楽しいから、結果として強くなる。これが本当のチームの形" %}
+
+{% include character.html name="flekky" position="left" text="…オレも、そう思うっす" %}
+
+{% include character.html name="maya" position="right" text="で、これが1番目の要素、**心理的安全性**。1番大事って、Google の研究で分かった。他の4つの土台になる。<br><br>次、2つ目を見ていこう" %}
 
 ---
 
@@ -265,6 +359,11 @@ order: 11
   - "Do Team and Individual Debriefs Enhance Performance? A Meta-Analysis" (*Human Factors*, 55(1), 231-245). [PubMed](https://pubmed.ncbi.nlm.nih.gov/23516804/)
 - **Frazier, M. L., et al. (2017)** — 心理的安全性メタ分析
   - "Psychological Safety: A Meta-Analytic Review and Extension" (*Personnel Psychology*, 70(1), 113-165)
+- **Felps, W., Mitchell, T. R., & Byington, E. (2006)** — 妨害行動が伝染しチームの成果を 30〜40% 下げる、というモデル研究
+  - "How, When, and Why Bad Apples Spoil the Barrel: Negative Group Members and Dysfunctional Groups" (*Research in Organizational Behavior*, 27, 175-222)
+- **Tom Wujec — Marshmallow Challenge**
+  - 設計者本人による解説 [TED Talk: Build a tower, build a team](https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team) / [marshmallowchallenge.com](https://www.marshmallowchallenge.com/)
+  - 幼稚園児チームが MBA 学生チームを上回る現象を、複数年・数百チームで再現
 
 ### 補足リソース
 
