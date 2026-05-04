@@ -1,0 +1,19 @@
+{%- comment -%}
+  Instagram 投稿（post / reel / tv）埋め込み用 include。
+
+  使い方:
+    {% include instagram.html url="https://www.instagram.com/reel/XXXXX/" %}
+
+  注意:
+    - url は末尾 / で終わる Instagram の標準形式を前提
+    - 公式の /embed/ エンドポイントを iframe で読み込む（外部 JS 不要、軽量）
+{%- endcomment -%}
+
+<div class="instagram-embed">
+  <iframe src="{{ include.url | append: 'embed/' }}"
+          frameborder="0"
+          scrolling="no"
+          allowtransparency="true"
+          allow="autoplay; encrypted-media"
+          loading="lazy"></iframe>
+</div>

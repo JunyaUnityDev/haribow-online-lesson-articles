@@ -506,6 +506,23 @@ img {
     }
   }
 
+  // Instagram 埋め込み（縦長、最大 540px センタリング）
+  .instagram-embed {
+    display: flex;
+    justify-content: center;
+    margin: 32px auto;
+
+    iframe {
+      width: 100%;
+      max-width: 540px;
+      height: 720px;
+      border: 0;
+      border-radius: 4px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+      background: $color-off-white;
+    }
+  }
+
   // note.com 音源埋め込み（固定高さ 275px）
   .sound-embed {
     margin: 16px auto;
