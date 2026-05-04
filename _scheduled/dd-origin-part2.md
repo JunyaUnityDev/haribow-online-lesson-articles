@@ -35,25 +35,11 @@ order: 7
 
 ## 💫 第一章:Fantastic Four、運命の4人
 
-{% include character.html name="maya" position="right" text="1980年。Lincoln Center の大会" %}
-
-{% include character.html name="maya" position="right" text="4人の10代の女の子が、世界チャンピオンに輝いた" %}
-
-{% include character.html name="maya" position="right" text="名前を覚えて。歴史に残してあげて" %}
-
-{% include character.html name="maya" position="right" text="Delores Brown(デローレス・ブラウン)。De'Shone Adams(デショーン・アダムス)。Adrienne 『Nicki』 Howell(アドリエンヌ『ニッキ』ハウエル)。Robin Oakes(ロビン・オークス)" %}
-
-{% include character.html name="maya" position="right" text="彼女たちの名前は、Fantastic Four(ファンタスティック・フォー)" %}
+{% include character.html name="maya" position="right" text="1980年。Lincoln Center の大会。<br><br>4人の10代の女の子が、世界チャンピオンに輝いた。<br><br>名前を覚えて。歴史に残してあげて。<br><br>Delores Brown(デローレス・ブラウン)。De'Shone Adams(デショーン・アダムス)。Adrienne 『Nicki』 Howell(アドリエンヌ『ニッキ』ハウエル)。Robin Oakes(ロビン・オークス)。<br><br>彼女たちの名前は、Fantastic Four(ファンタスティック・フォー)" %}
 
 {% include character.html name="flekky" position="left" text="Fantastic Four…" %}
 
-{% include character.html name="maya" position="right" text="中学7年生の時に4人で組んだチーム。American Double Dutch League のオーディションを受けて、そのまま伝説になった" %}
-
-{% include character.html name="maya" position="right" text="彼女たちが見せたのは、4人が同時にロープの中で跳ぶ技。それまで、誰もやったことがなかった" %}
-
-{% include character.html name="maya" position="right" text="観客は息を呑んだ" %}
-
-{% include character.html name="maya" position="right" text="メンバーのロビンは、後にこう振り返ってる。『It was known that watching the Fantastic Four, if you blink your eye, you're gonna miss something.(Fantastic Four を観るなら、瞬きしちゃダメって言われてた。何かを見逃すから)』" %}
+{% include character.html name="maya" position="right" text="中学7年生の時に4人で組んだチーム。American Double Dutch League のオーディションを受けて、そのまま伝説になった。<br><br>彼女たちが見せたのは、4人が同時にロープの中で跳ぶ技。それまで、誰もやったことがなかった。<br><br>観客は息を呑んだ。<br><br>メンバーのロビンは、後にこう振り返ってる。『It was known that watching the Fantastic Four, if you blink your eye, you're gonna miss something.(Fantastic Four を観るなら、瞬きしちゃダメって言われてた。何かを見逃すから)』" %}
 
 ![Fantastic Four（American Double Dutch League のユニフォーム姿、4人の集合写真）]({{ '/assets/images/fantastic-four-1980.jpg' | relative_url }})
 <small>写真出典: <a href="https://www.opb.org/article/2022/12/06/how-the-fantastic-four-took-double-dutch-to-new-heights/" target="_blank" rel="noopener">OPB — How the Fantastic Four took Double Dutch to new heights</a></small>
@@ -82,17 +68,7 @@ order: 7
 
 {% include character.html name="flekky" position="left" text="女性のオーガナイザーっすか?" %}
 
-{% include character.html name="maya" position="right" text="そう。彼女には、ある悩みがあった。『ヒップホップが、男だけの世界になりかけてる』って" %}
-
-{% include character.html name="maya" position="right" text="彼女自身の言葉:『The hip-hop scene was so male-dominated and I wanted to infuse some female energy.(ヒップホップ・シーンは男ばかりだった。だから、女性のエネルギーを注ぎ込みたかった)』" %}
-
-{% include character.html name="maya" position="right" text="1981年9月のある日、彼女はテレビでマクドナルドのCMを見た" %}
-
-{% include character.html name="maya" position="right" text="跳んでいた4人の女の子に、釘付けになった" %}
-
-{% include character.html name="maya" position="right" text="『彼女たちを探し出さなきゃ』" %}
-
-{% include character.html name="maya" position="right" text="Ruza は、警察の許認可システムを一つ一つクリアして、Walker と Williams から許可を取り付けて、Fantastic Four を Roxy に連れてきた" %}
+{% include character.html name="maya" position="right" text="そう。彼女には、ある悩みがあった。『ヒップホップが、男だけの世界になりかけてる』って。<br><br>彼女自身の言葉:『The hip-hop scene was so male-dominated and I wanted to infuse some female energy.(ヒップホップ・シーンは男ばかりだった。だから、女性のエネルギーを注ぎ込みたかった)』<br><br>1981年9月のある日、彼女はテレビでマクドナルドのCMを見た。<br><br>跳んでいた4人の女の子に、釘付けになった。<br><br>『彼女たちを探し出さなきゃ』<br><br>Ruza は、警察の許認可システムを一つ一つクリアして、Walker と Williams から許可を取り付けて、Fantastic Four を Roxy に連れてきた" %}
 
 {% include character.html name="flekky" position="left" text="警察と交渉…" %}
 
@@ -107,32 +83,14 @@ order: 7
 
 ## 🎵 第三章:5つのカルチャーが、同じ床の上で生きていた夜
 
-{% include character.html name="maya" position="right" text="The Roxy のフロア、1982年のあの夜" %}
-
-{% include character.html name="maya" position="right" text="DJ Afrika Bambaataa(アフリカ・バンバータ)がレコードを回してた。ヒップホップ第二世代のリーダー" %}
-
-{% include character.html name="maya" position="right" text="Infinity Rappers(インフィニティ・ラッパーズ)がライムを刻んでた" %}
-
-{% include character.html name="maya" position="right" text="Futura 2000(フューチュラ2000)と Fab 5 Freddy(ファブ・ファイブ・フレディ)がスプレー缶でキャンバスを彩ってた。グラフィティの伝説" %}
-
-{% include character.html name="maya" position="right" text="そして、Rock Steady Crew(ロック・ステディ・クルー)がブレイクダンスを始める前" %}
-
-{% include character.html name="maya" position="right" text="フロアの真ん中で、Fantastic Four が縄を跳んだ" %}
+{% include character.html name="maya" position="right" text="The Roxy のフロア、1982年のあの夜。<br><br>DJ Afrika Bambaataa(アフリカ・バンバータ)がレコードを回してた。ヒップホップ第二世代のリーダー。<br><br>Infinity Rappers(インフィニティ・ラッパーズ)がライムを刻んでた。<br><br>Futura 2000(フューチュラ2000)と Fab 5 Freddy(ファブ・ファイブ・フレディ)がスプレー缶でキャンバスを彩ってた。グラフィティの伝説。<br><br>そして、Rock Steady Crew(ロック・ステディ・クルー)がブレイクダンスを始める前。<br><br>フロアの真ん中で、Fantastic Four が縄を跳んだ" %}
 
 ![DJ・MC・グラフィティ・Bboy・Double Dutch が同じフロアに同居するイメージ]({{ '/assets/images/ai-generated/dd-origin-part2-ch3-five-cultures.jpeg' | relative_url }})
 <small>※ 写真はイメージです。AI（Gemini）で生成。</small>
 
 {% include character.html name="flekky" position="left" text="うわぁ…" %}
 
-{% include character.html name="maya" position="right" text="DJ、MC、グラフィティ、Bboy、そして — Double Dutch" %}
-
-{% include character.html name="maya" position="right" text="その夜、5つのカルチャーが同じ床の上で生きていた" %}
-
-{% include character.html name="maya" position="right" text="ヒップホップの伝説、Fab 5 Freddy はこう証言してる" %}
-
-{% include character.html name="maya" position="right" text="『The tour in France was New York City rap, and double dutch was part of the street culture. It fit perfectly.(フランス・ツアーはニューヨーク・ラップだった。ダブルダッチはストリート文化の一部。完璧にハマってた)』" %}
-
-{% include character.html name="maya" position="right" text="『Every time you'd watch them it was astonishing.(あの子たちを観るたびに、驚かされた)』" %}
+{% include character.html name="maya" position="right" text="DJ、MC、グラフィティ、Bboy、そして — Double Dutch。<br><br>その夜、5つのカルチャーが同じ床の上で生きていた。<br><br>ヒップホップの伝説、Fab 5 Freddy はこう証言してる。<br><br>『The tour in France was New York City rap, and double dutch was part of the street culture. It fit perfectly.(フランス・ツアーはニューヨーク・ラップだった。ダブルダッチはストリート文化の一部。完璧にハマってた)』<br><br>『Every time you'd watch them it was astonishing.(あの子たちを観るたびに、驚かされた)』" %}
 
 {% include character.html name="flekky" position="left" text="その夜の Roxy にいたかったっす…" %}
 
@@ -142,24 +100,12 @@ order: 7
 
 ## 🌍 第四章:そして、世界へ
 
-{% include character.html name="maya" position="right" text="1982年11月。New York City Rap Tour" %}
-
-{% include character.html name="maya" position="right" text="Fab 5 Freddy と Ruza Blue が企画した、ヒップホップを世界に紹介するツアー" %}
-
-{% include character.html name="maya" position="right" text="行き先は、フランス・パリ" %}
-
-{% include character.html name="maya" position="right" text="DJ、MC、グラフィティ・アーティスト、Bboy。そして、Fantastic Four" %}
+{% include character.html name="maya" position="right" text="1982年11月。New York City Rap Tour。<br><br>Fab 5 Freddy と Ruza Blue が企画した、ヒップホップを世界に紹介するツアー。<br><br>行き先は、フランス・パリ。<br><br>DJ、MC、グラフィティ・アーティスト、Bboy。そして、Fantastic Four" %}
 
 ![1982年11月29日、フランス・メス（Metz）でのNew York City Rap Tour。ターンテーブルの前で縄を跳ぶ Fantastic Four]({{ '/assets/images/nyc-rap-tour-paris-1982.jpg' | relative_url }})
 <small>写真出典: <a href="https://www.republicain-lorrain.fr/actualite/2019/01/25/nyc-rap-tour-en-1982-la-france-et-metz-decouvrent-la-culture-hip-hop-us" target="_blank" rel="noopener">Le Républicain Lorrain — NYC Rap Tour en 1982</a>（Le Républicain Lorrain アーカイブ）</small>
 
-{% include character.html name="maya" position="right" text="ヨーロッパに渡ったのは、ヒップホップの『5つの要素』だった" %}
-
-{% include character.html name="maya" position="right" text="Fantastic Four のメンバー、デローレスはこう言ってる。『In France they were like, The Americans are coming to town! At this point, rap was coming into its own. We had Afrika Bambaataa, the Rock Steady Crew, and us.(フランスでは「アメリカ人がやってきた!」って感じだった。ラップが台頭してきた時期で、Afrika Bambaataa、Rock Steady Crew、そしてあたしたちがいた)』" %}
-
-{% include character.html name="maya" position="right" text="ヒップホップは、男だけの文化として渡ったんじゃない。ダブルダッチを連れて、女性のエネルギーと一緒にヨーロッパに渡った" %}
-
-{% include character.html name="maya" position="right" text="だから今でも、フランスでは、ダブルダッチは『ヒップホップの女性的シンボル』として記憶されてる" %}
+{% include character.html name="maya" position="right" text="ヨーロッパに渡ったのは、ヒップホップの『5つの要素』だった。<br><br>Fantastic Four のメンバー、デローレスはこう言ってる。『In France they were like, The Americans are coming to town! At this point, rap was coming into its own. We had Afrika Bambaataa, the Rock Steady Crew, and us.(フランスでは「アメリカ人がやってきた!」って感じだった。ラップが台頭してきた時期で、Afrika Bambaataa、Rock Steady Crew、そしてあたしたちがいた)』<br><br>ヒップホップは、男だけの文化として渡ったんじゃない。ダブルダッチを連れて、女性のエネルギーと一緒にヨーロッパに渡った。<br><br>だから今でも、フランスでは、ダブルダッチは『ヒップホップの女性的シンボル』として記憶されてる" %}
 
 {% include character.html name="flekky" position="left" text="フランスで…" %}
 
@@ -210,9 +156,11 @@ order: 7
 
 **マヤ(姉さん)**
 
-- 30歳、横浜出身、ダブルダッチパフォーマー兼カルチャー誌ライター
+- 本名: 森 真矢、30歳、横浜出身、ダブルダッチパフォーマー兼カルチャー誌ライター
 - 文化人類学修士、ダブルダッチ歴15年、英仏語堪能
 - クール毒舌、本当は世話焼き、後輩のためなら徹夜で資料作る
+- マイナーなアーティスト好きと言って、有名になった瞬間「もう違うんだよね」と言い出す。本人は「商業化されると本質が…」と論理的に説明できる
+- 観葉植物の世話が下手で全部枯らす、古着メイン「新品は心がない」と言いつつ新作スニーカーには弱い、窪塚洋介のファンだが、彼みたいな話し方をする一般人は嫌い
 - 口癖:「で、それのソースは?」「あんたねぇ…」「Whatever.」「悪くないじゃん」(最大の褒め言葉)
 
 ---

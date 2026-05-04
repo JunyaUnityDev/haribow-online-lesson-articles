@@ -79,13 +79,7 @@ order: 6
 
 {% include character.html name="flekky" position="left" text="えっ、惨敗?" %}
 
-{% include character.html name="maya" position="right" text="あとからマイク本人がインタビューでこう言ってる。『My God the girls did terrible!(ああ、女の子たちは惨敗だった)』って" %}
-
-{% include character.html name="maya" position="right" text="レースが終わって、街を歩いて帰る道。マイクは独り言をつぶやいてた。『この街には、女の子たちが輝ける場所がない』って" %}
-
-{% include character.html name="maya" position="right" text="そして、ふと足が止まる" %}
-
-{% include character.html name="maya" position="right" text="街角で、女の子たちが縄を回してる。跳んで、笑って、自分たちのリズムで" %}
+{% include character.html name="maya" position="right" text="あとからマイク本人がインタビューでこう言ってる。『My God the girls did terrible!(ああ、女の子たちは惨敗だった)』って。<br><br>レースが終わって、街を歩いて帰る道。マイクは独り言をつぶやいてた。『この街には、女の子たちが輝ける場所がない』って。<br><br>そして、ふと足が止まる。<br><br>街角で、女の子たちが縄を回してる。跳んで、笑って、自分たちのリズムで" %}
 
 {% include character.html name="flekky" position="left" text="!" %}
 
@@ -107,13 +101,7 @@ order: 6
 
 {% include character.html name="flekky" position="left" text="えっ、デイブの娘さん?" %}
 
-{% include character.html name="maya" position="right" text="そう。父の意志を継いで、今もダブルダッチを世界に広めてる" %}
-
-{% include character.html name="maya" position="right" text="電話に出るデイブ。マイクは興奮気味に話す" %}
-
-{% include character.html name="maya" position="right" text="『Dave、聞いてくれ。あの女の子たちの遊び — Double Dutch、俺たちの手で、sport にできる』" %}
-
-{% include character.html name="maya" position="right" text="デイブの返事はこうだったって、後年マイクはこう振り返ってる。『From that point on, David and I began to contrive the sport of double dutch.(そこから俺とデイブで、ダブルダッチを sport として組み立て始めた)』" %}
+{% include character.html name="maya" position="right" text="そう。父の意志を継いで、今もダブルダッチを世界に広めてる。<br><br>電話に出るデイブ。マイクは興奮気味に話す。<br><br>『Dave、聞いてくれ。あの女の子たちの遊び — Double Dutch、俺たちの手で、sport にできる』<br><br>デイブの返事はこうだったって、後年マイクはこう振り返ってる。『From that point on, David and I began to contrive the sport of double dutch.(そこから俺とデイブで、ダブルダッチを sport として組み立て始めた)』" %}
 
 {% include character.html name="flekky" position="left" text="すげー、警察官2人で…" %}
 
@@ -135,17 +123,7 @@ order: 6
 
 ## 🎯 第四章:他のスポーツから「いいとこ取り」したルール
 
-{% include character.html name="maya" position="right" text="電話のあと、マイクとデイブは毎晩集まって議論した" %}
-
-{% include character.html name="maya" position="right" text="『ただ跳ぶだけじゃ、評価できない。客観的なルールが要る』" %}
-
-{% include character.html name="maya" position="right" text="2人は、他のスポーツの本を山積みにして、いいとこ取りを始めた" %}
-
-{% include character.html name="maya" position="right" text="陸上から:スピードテスト。『2分間で何回跳べるか』" %}
-
-{% include character.html name="maya" position="right" text="体操から:コンパルソリー(規定演技)。『右足ターン2回、左足ターン2回、右が上のクロス2回、左が上のクロス2回、ハイステップ10回(膝を腰の高さまで)』" %}
-
-{% include character.html name="maya" position="right" text="フィギュアスケートから:フリースタイル。3分間の自由演技" %}
+{% include character.html name="maya" position="right" text="電話のあと、マイクとデイブは毎晩集まって議論した。<br><br>『ただ跳ぶだけじゃ、評価できない。客観的なルールが要る』<br><br>2人は、他のスポーツの本を山積みにして、いいとこ取りを始めた。<br><br>陸上から:スピードテスト。『2分間で何回跳べるか』<br>体操から:コンパルソリー(規定演技)。『右足ターン2回、左足ターン2回、右が上のクロス2回、左が上のクロス2回、ハイステップ10回(膝を腰の高さまで)』<br>フィギュアスケートから:フリースタイル。3分間の自由演技" %}
 
 {% include character.html name="flekky" position="left" text="全部、他から持ってきた…" %}
 
@@ -161,25 +139,11 @@ order: 6
 
 ## 🎉 第五章:1974年2月14日、バレンタインデーの奇跡
 
-{% include character.html name="maya" position="right" text="1974年2月14日。バレンタインデー" %}
-
-{% include character.html name="maya" position="right" text="場所はハーレムのIntermediate School 10、West 149th Street。今は Frederick Douglas Academy っていう学校" %}
-
-{% include character.html name="maya" position="right" text="初の公式ダブルダッチ・トーナメントが開催された" %}
-
-{% include character.html name="maya" position="right" text="参加者は、5年生から8年生まで。約600人の子供たち" %}
+{% include character.html name="maya" position="right" text="1974年2月14日。バレンタインデー。<br><br>場所はハーレムのIntermediate School 10、West 149th Street。今は Frederick Douglas Academy っていう学校。<br><br>初の公式ダブルダッチ・トーナメントが開催された。<br><br>参加者は、5年生から8年生まで。約600人の子供たち" %}
 
 {% include character.html name="flekky" position="left" text="600人!?" %}
 
-{% include character.html name="maya" position="right" text="スポンサーはRoyal Crown Cola(ロイヤル・クラウン・コーラ)。当時の人気飲料メーカー" %}
-
-{% include character.html name="maya" position="right" text="ニューヨークで一番権威ある雑誌の一つ、The New Yorker が、3月11日号でこの大会の記事を書いた" %}
-
-{% include character.html name="maya" position="right" text="街角の女の子たちの遊びが、初めて『公式』になった日" %}
-
-{% include character.html name="maya" position="right" text="その会場で、デイブとマイクは、警官の制服のまま、子供たちの輪の中にいた" %}
-
-{% include character.html name="maya" position="right" text="想像してみて。冬の体育館。蛍光灯の下、子供たちの笑い声、縄が床を打つ音、子供たちの靴底のキュッキュッていう音" %}
+{% include character.html name="maya" position="right" text="スポンサーはRoyal Crown Cola(ロイヤル・クラウン・コーラ)。当時の人気飲料メーカー。<br><br>ニューヨークで一番権威ある雑誌の一つ、The New Yorker が、3月11日号でこの大会の記事を書いた。<br><br>街角の女の子たちの遊びが、初めて『公式』になった日。<br><br>その会場で、デイブとマイクは、警官の制服のまま、子供たちの輪の中にいた。<br><br>想像してみて。冬の体育館。蛍光灯の下、子供たちの笑い声、縄が床を打つ音、子供たちの靴底のキュッキュッていう音" %}
 
 ![1974年バレンタインデー、Intermediate School 10 体育館での大会のイメージ]({{ '/assets/images/ai-generated/dd-origin-part1-ch5-1974-tournament.jpeg' | relative_url }})
 <small>※ 写真はイメージです。AI（Gemini）で生成。</small>
@@ -232,9 +196,11 @@ order: 6
 
 **マヤ(姉さん)**
 
-- 30歳、横浜出身、ダブルダッチパフォーマー兼カルチャー誌ライター
+- 本名: 森 真矢、30歳、横浜出身、ダブルダッチパフォーマー兼カルチャー誌ライター
 - 文化人類学修士、ダブルダッチ歴15年、英仏語堪能
 - クール毒舌、本当は世話焼き、後輩のためなら徹夜で資料作る
+- マイナーなアーティスト好きと言って、有名になった瞬間「もう違うんだよね」と言い出す。本人は「商業化されると本質が…」と論理的に説明できる
+- 観葉植物の世話が下手で全部枯らす、古着メイン「新品は心がない」と言いつつ新作スニーカーには弱い、窪塚洋介のファンだが、彼みたいな話し方をする一般人は嫌い
 - 口癖:「で、それのソースは?」「あんたねぇ…」「Whatever.」「悪くないじゃん」(最大の褒め言葉)
 
 ---
