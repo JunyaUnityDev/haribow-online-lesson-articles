@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "【動作確認テスト】Phase 3-B 全フロー再点検"
-description: "公開→GAS通知→LINE配信の一連を再確認するためのテスト記事"
-date: 2026-01-01
-publish_date: 2026-05-04
+title: 【動作確認テスト】Phase 3-B 全フロー再点検
+description: 公開→GAS通知→LINE配信の一連を再確認するためのテスト記事
+date: 2026-05-04
 category: culture
 slug: test-flow-check
 order: 999
