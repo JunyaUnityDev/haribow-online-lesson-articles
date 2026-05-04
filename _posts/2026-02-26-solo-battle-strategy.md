@@ -10,6 +10,12 @@ order: 4
 
 ## はじめに
 
+{% include character.html name="flekky" position="left" text="シャインさん!オレ、ソロバトル出てみたいんすけど、何を練習すればいいか全然わかんないっす…" %}
+
+{% include character.html name="shine" position="right" text="ヤバくない?ヤバくない?フリくん、それ超よく分かる。あたしも最初そうだった!でも大丈夫、構造で考えれば、めちゃくちゃシンプルだから" %}
+
+---
+
 ダブルダッチをしている人の中には、ソロバトルで勝ちたい、またはこれから挑戦してみたいと思っている人もいると思います。
 
 しかし同時に、こう感じている人も多いのではないでしょうか。
@@ -43,7 +49,9 @@ order: 4
 
 ---
 
-## 1. ソロバトルの本質
+## 🎯 1. ソロバトルの本質
+
+{% include character.html name="shine" position="right" text="まず、これだけは絶対覚えて。**勝敗は点数じゃない**" %}
 
 勝敗は点数ではありません。
 
@@ -61,9 +69,13 @@ order: 4
 
 技の数だけでなく、扱い方が重要です。
 
+{% include character.html name="flekky" position="left" text="技の数より、扱い方…" %}
+
+{% include character.html name="shine" position="right" text="そう!センスの問題だよ、それ。技10個下手に出すより、技3個を完璧に魅せた方が勝てる" %}
+
 ---
 
-## 2. 4つの要素
+## 🧩 2. 4つの要素
 
 バトルは感覚の競技に見えます。しかし、整理できます。
 
@@ -77,6 +89,8 @@ order: 4
 どんなムーブも、このどれかです。
 
 ![ソロバトルの4要素]({{ '/assets/images/solo-battle-elements.jpg' | relative_url }})
+
+{% include character.html name="shine" position="right" text="めちゃくちゃ可愛いじゃん、この4つだけ覚えれば一気に楽になるから!まずはこの構造を入れて" %}
 
 まずはこの構造を理解します。
 
@@ -106,6 +120,8 @@ order: 4
 状態を指します。
 
 迷ったら、ここに戻ります。
+
+{% include character.html name="shine" position="right" text="ベーシックは『戻れる場所』。フリくん、自分の3つを今ここで言える?即答できないなら、まだ絞り込みが足りない" %}
 
 ### ② 音取り
 
@@ -149,6 +165,10 @@ order: 4
 
 **規則に乗れるかどうかで差がつきます。**
 
+{% include character.html name="flekky" position="left" text="うっす、ハイハット聴き取れたっす!" %}
+
+{% include character.html name="shine" position="right" text="いやいやいや、それマジ大事!最初は耳が育つだけで一気に変わるから" %}
+
 ### ③ 展開
 
 展開とは、
@@ -186,9 +206,11 @@ order: 4
 <iframe src="https://www.youtube.com/embed/cP_cxKg69Y0" title="初心者〜中級者向け 必殺ネタ集" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+{% include character.html name="shine" position="right" text="必殺は、決まる位置が決まってる。**2エイト目か4エイト目の5,6,7,8カウント**。覚えとけ" %}
+
 ---
 
-## 3. 切り替えの基準
+## 🔄 3. 切り替えの基準
 
 - **ベーシック** → 迷ったときに戻る場所です。
 - **音取り** → ループの規則性を見つけたときです。
@@ -199,9 +221,11 @@ order: 4
 
 ロープに入る前に、どこで何を使うかを一度整理します。
 
+{% include character.html name="shine" position="right" text="ロープに入る前に整理。**入ってから考えるのは遅い**" %}
+
 ---
 
-## 4. 段階的習得モデル
+## 📈 4. 段階的習得モデル
 
 期間では決めません。出来たら進みます。
 
@@ -231,6 +255,10 @@ order: 4
 4. これを10本行います。
 
 音はまだ気にしなくて構いません。まずは構造を身体に入れます。
+
+{% include character.html name="flekky" position="left" text="…オレ、まだ初心者っすね" %}
+
+{% include character.html name="shine" position="right" text="うっそ、待ってマジ?それ最高じゃん!ここから始められる" %}
 
 ### 段階2｜中級者
 
@@ -280,9 +308,11 @@ order: 4
 
 ---
 
-## 5. バトルを意識したフリーロープ
+## 🎬 5. バトルを意識したフリーロープ
 
 ![フリーロープ設計テンプレート(1分間)]({{ '/assets/images/solo-battle-freerope-template.png' | relative_url }})
+
+{% include character.html name="shine" position="right" text="フリくん、ただの自由練習にしないで。**1分=1ラウンドのつもりで設計する**" %}
 
 ロープに入る前に考えます。
 
@@ -309,7 +339,7 @@ order: 4
 
 ---
 
-## 6. 構造の先にある状態（フロー）
+## 🌊 6. 構造の先にある状態（フロー）
 
 4つの要素が身体に入ると、思考量が減ります。
 
@@ -336,6 +366,8 @@ order: 4
 
 重要なのは、**フローを狙うことではなく、フローが起きても成立する構造を持っていること**です。
 
+{% include character.html name="shine" position="right" text="**フローは狙うものじゃなくて、起きてもいい設計を持つこと**。これ、めちゃくちゃ深いポイント" %}
+
 ### Junyaの場合
 
 個人的には、
@@ -356,7 +388,7 @@ order: 4
 
 ---
 
-## 最後に
+## 🎯 最後に
 
 練習は無限に見えます。
 
@@ -365,3 +397,32 @@ order: 4
 今、自分は何を鍛えているのか。
 
 それが明確になれば、成長は加速します。
+
+{% include character.html name="flekky" position="left" text="…シャインさん、オレ、明日からベーシック3つ絞って始めるっす!" %}
+
+{% include character.html name="shine" position="right" text="(笑って)めちゃくちゃ可愛いじゃん、フリくんのその目!絞った3つ、今度見せて" %}
+
+---
+
+## 👥 登場人物紹介
+
+{% include character.html name="flekky" position="left" text="オレ、フリッキー!19歳、ダブルダッチ歴1年8ヶ月の大学2年生っす。今回は『ソロバトル出たい、でも何すれば…』からスタートして、4要素を学ぶ役!" %}
+
+**フリッキー(主人公)**
+
+- 19歳、神奈川出身、大学2年生 + コンビニ夜勤バイト
+- ダブルダッチ歴1年8ヶ月
+- カッコつけてるけど、根は純粋
+- 小学生時代、テストで全部の問題が解けなかった時に何も書かずに出して「間違ってない=ノーミス=100点です」と先生に言い張った事がある
+- 口癖:「マジで?」「やばっ」「すげーすげー」
+
+{% include character.html name="shine" position="right" text="あたし、シャイン!25歳、沖縄出身、ダンサー兼スタイリスト兼ダブルダッチガチ勢、歴8年!今回は『ソロバトル戦略』を、フリくんに伝える役!" %}
+
+**シャイン(陽キャの先輩)**
+
+- 本名: Shine、25歳、沖縄出身
+- ダンサー兼ファッションスタイリスト兼ダブルダッチプレイヤー、ダブルダッチ歴8年
+- 超ポジティブでノリで生きてる、本当は超繊細、夜は1人で泣く日もある
+- 今はダイエット中で、1日3食をやめて1食で全部まとめて食べている。本人は完全に大真面目で論理が破綻してることに気づいてない
+- 沖縄出身だけど海は嫌い（日焼け対策）、部屋は綺麗だがクローゼットだけはカオス、実は読書家で三島由紀夫が好き
+- 口癖: 「ヤバくない?ヤバくない?」「うっそ、待ってマジ?」「めちゃくちゃ可愛いじゃん!」「いやいやいや」「センスの問題だよ、それ」、フリッキーを「フリくん」と呼ぶ唯一の人物
