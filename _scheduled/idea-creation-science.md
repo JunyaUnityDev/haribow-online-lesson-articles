@@ -97,7 +97,7 @@ order: 12
 
 {% include character.html name="top" position="right" text="質は無視。くだらないアイデアもOK。重複もOK。実現不可能もOK。**ひたすら書く**。<br><br>そして、書き終わった後で、初めて評価する。**生成と評価を、完全に分離する**" %}
 
-{% include character.html name="maya" position="right" text="これね、Osborn の原則 "Defer judgment" と完全に一致してる。<br><br>多くの人がアイデア出しで失敗するのは、**生成しながら評価する**から。「これダメだな」「これも違うな」って、出した瞬間に潰してる。だから量が出ない。<br><br>孫正義は、それを知ってか知らずか、**フェーズを分離した**。フェーズ1で生成、フェーズ2で評価" %}
+{% include character.html name="maya" position="right" text="これね、Osborn の原則『Defer judgment』と完全に一致してる。<br><br>多くの人がアイデア出しで失敗するのは、**生成しながら評価する**から。「これダメだな」「これも違うな」って、出した瞬間に潰してる。だから量が出ない。<br><br>孫正義は、それを知ってか知らずか、**フェーズを分離した**。フェーズ1で生成、フェーズ2で評価" %}
 
 {% include character.html name="flekky" position="left" text="(メモ取りながら)生成と評価を、分ける…" %}
 
