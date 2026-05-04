@@ -55,6 +55,9 @@ order: 7
 
 {% include character.html name="maya" position="right" text="メンバーのロビンは、後にこう振り返ってる。『It was known that watching the Fantastic Four, if you blink your eye, you're gonna miss something.(Fantastic Four を観るなら、瞬きしちゃダメって言われてた。何かを見逃すから)』" %}
 
+![Fantastic Four（American Double Dutch League のユニフォーム姿、4人の集合写真）]({{ '/assets/images/fantastic-four-1980.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.opb.org/article/2022/12/06/how-the-fantastic-four-took-double-dutch-to-new-heights/" target="_blank" rel="noopener">OPB — How the Fantastic Four took Double Dutch to new heights</a></small>
+
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ihovQMxAhBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <small>動画: "Double Dutch: The Fantastic Four | Jumping Into History"（YouTube）</small>
 
@@ -143,6 +146,9 @@ order: 7
 {% include character.html name="maya" position="right" text="行き先は、フランス・パリ" %}
 
 {% include character.html name="maya" position="right" text="DJ、MC、グラフィティ・アーティスト、Bboy。そして、Fantastic Four" %}
+
+![1982年11月29日、フランス・メス（Metz）でのNew York City Rap Tour。ターンテーブルの前で縄を跳ぶ Fantastic Four]({{ '/assets/images/nyc-rap-tour-paris-1982.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.republicain-lorrain.fr/actualite/2019/01/25/nyc-rap-tour-en-1982-la-france-et-metz-decouvrent-la-culture-hip-hop-us" target="_blank" rel="noopener">Le Républicain Lorrain — NYC Rap Tour en 1982</a>（Le Républicain Lorrain アーカイブ）</small>
 
 {% include character.html name="maya" position="right" text="ヨーロッパに渡ったのは、ヒップホップの『5つの要素』だった" %}
 

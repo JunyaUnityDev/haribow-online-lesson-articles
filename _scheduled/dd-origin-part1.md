@@ -37,8 +37,8 @@ order: 6
 
 {% include character.html name="maya" position="right" text="黒人の女の子たちが、家の物干しロープを2本、街角に持ち出した" %}
 
-![ハーレムの街角でダブルダッチを跳ぶ少女たち（1940-50年代のイメージ）]({{ '/assets/images/ai-generated/dd-origin-part1-ch1-harlem-girls.jpeg' | relative_url }})
-<small>※ 写真はイメージです。AI（Gemini）で生成。</small>
+![ニューヨークの街角でダブルダッチを跳ぶ少女たち]({{ '/assets/images/harlem-girls-jump-rope.jpg' | relative_url }})
+<small>写真出典: <a href="https://medium.com/africana-feminisms/double-dutch-a-classic-for-whom-ee47acf3531c" target="_blank" rel="noopener">Medium — Africana Feminisms「Double Dutch: A Classic For Whom?」</a></small>
 
 {% include character.html name="maya" position="right" text="友達が回す、自分が跳ぶ、誰かが歌う。『Miss Mary Mack(ミス・メアリー・マック)』っていう、当時流行ってた歌のチャント" %}
 
@@ -125,8 +125,11 @@ order: 6
 
 {% include character.html name="maya" position="right" text="2人の警官、1人の妻、1人の赤ん坊。物語が始まった夜は、そういう夜だったの" %}
 
-![David A. Walker（中央、後年の Skyscraper Cycling Classic 表彰式にて）]({{ '/assets/images/david-walker-nddl.jpg' | relative_url }})
+![David A. Walker（NDDL創設者、ハーレムの街角にて）]({{ '/assets/images/david-walker-portrait.jpg' | relative_url }})
 <small>写真出典: <a href="http://www.nationaldoubledutchleague.com/founder/" target="_blank" rel="noopener">National Double Dutch League — Founder David A. Walker</a></small>
+
+![Ulysses "Mike the Cop" Williams（NYPD制服姿）]({{ '/assets/images/ulysses-williams-portrait.jpg' | relative_url }})
+<small>写真出典: <a href="https://x.com/JunHaratake/status/943363832042229760/photo/2" target="_blank" rel="noopener">@JunHaratake on X</a></small>
 
 ---
 
