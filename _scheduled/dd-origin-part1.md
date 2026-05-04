@@ -41,7 +41,7 @@ order: 6
 
 {% include character.html name="flekky" position="left" text="歌いながら跳ぶんすか?" %}
 
-{% include character.html name="maya" position="right" text="そう。"Miss Mary Mack, Mack, Mack, all dressed in black, black, black..." みたいな、口で言葉のリズムを刻みながら、足でロープのリズムも刻む" %}
+{% include character.html name="maya" position="right" text="そう。『Miss Mary Mack, Mack, Mack, all dressed in black, black, black...』みたいな、口で言葉のリズムを刻みながら、足でロープのリズムも刻む" %}
 
 {% include character.html name="maya" position="right" text="大人たちの目を盗んで、自分たちだけの空間を作ってた。それは『遊び』じゃない。あの子たちにとっての『居場所』だった" %}
 

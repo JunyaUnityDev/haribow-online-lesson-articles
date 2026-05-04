@@ -41,7 +41,7 @@ order: 7
 
 {% include character.html name="maya" position="right" text="名前を覚えて。歴史に残してあげて" %}
 
-{% include character.html name="maya" position="right" text="Delores Brown(デローレス・ブラウン)。De'Shone Adams(デショーン・アダムス)。Adrienne "Nicki" Howell(アドリエンヌ "ニッキ" ハウエル)。Robin Oakes(ロビン・オークス)" %}
+{% include character.html name="maya" position="right" text="Delores Brown(デローレス・ブラウン)。De'Shone Adams(デショーン・アダムス)。Adrienne 『Nicki』 Howell(アドリエンヌ『ニッキ』ハウエル)。Robin Oakes(ロビン・オークス)" %}
 
 {% include character.html name="maya" position="right" text="彼女たちの名前は、Fantastic Four(ファンタスティック・フォー)" %}
 
