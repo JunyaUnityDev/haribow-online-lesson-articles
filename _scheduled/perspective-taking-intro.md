@@ -17,13 +17,21 @@ order: 10
 
 ---
 
-## 💭 プロローグ: フリッキー、また文句を言う
+## 💭 プロローグ: フリッキー、苦しいから助けを求めに来た
 
-{% include character.html name="flekky" position="left" text="トップさーん、聞いてくださいよ。オレ、最近またチームのメンバーとぶつかってて…" %}
+{% include character.html name="flekky" position="left" text="トップさーん、ちょっと聞いてくださいよ。オレ、本気で困ってるんすよ" %}
 
-{% include character.html name="top" position="right" text="フッ…またか。今度は何だ?" %}
+{% include character.html name="top" position="right" text="フッ…どうした、若いの?" %}
 
-{% include character.html name="flekky" position="left" text="アイツが、オレの言ってること全然分かってくれないんすよ。何回言っても、噛み合わなくて" %}
+{% include character.html name="flekky" position="left" text="来月、大会あるんすよ。で、今、チームでまとまんなきゃいけない時期なんすけど…全然、噛み合わなくて" %}
+
+{% include character.html name="top" position="right" text="(タバコの煙を吐く)…どんな感じだ?" %}
+
+{% include character.html name="flekky" position="left" text="練習に来ない奴がいたり、来ても集中してなかったり、メンバー同士で空気重かったり…オレが何か言っても、特にアイツが、全然聞いてくれないんすよ" %}
+
+{% include character.html name="top" position="right" text="ふむ" %}
+
+{% include character.html name="flekky" position="left" text="大会近いのに、このままじゃヤバいって、皆もたぶん感じてる。でも、どうしていいか分かんないっす…オレ、リーダーじゃないけど、何とかしたくて。トップさん、なんかヒント、ないっすか?" %}
 
 {% include character.html name="top" position="right" text="(タバコの煙を吐く)…で、お前は、アイツの言ってることが分かるのか?" %}
 
@@ -33,7 +41,7 @@ order: 10
 
 {% include character.html name="flekky" position="left" text="…(言葉に詰まる)" %}
 
-{% include character.html name="top" position="right" text="フッ。それが答えだろ。いいか若いの。人間関係の話、ちょっと長くなるが、聞いてけ" %}
+{% include character.html name="top" position="right" text="フッ。それが答えだろ。チームをまとめたきゃ、まず一番近い一人から始めろ。いいか若いの、人間関係の話、ちょっと長くなるが、聞いてけ" %}
 
 ---
 
@@ -51,7 +59,15 @@ order: 10
 
 {% include character.html name="flekky" position="left" text="えっ、違うんすか!?" %}
 
-{% include character.html name="top" position="right" text="フッ、これが意外と分かってない奴が多い。ここで、世界の研究を引いてもらおう" %}
+{% include character.html name="top" position="right" text="で、これがな、お前のチームの問題に、直結する話なんだ" %}
+
+{% include character.html name="flekky" position="left" text="チーム?" %}
+
+{% include character.html name="top" position="right" text="チームってのはな、『個人の能力』が高いやつを集めてもダメだ。**お互いを分かろうとする土台**がないと、まとまらねえ。<br><br>逆に、メンバー同士が『相手の頭の中をちゃんと理解できる』チームは、強い。練習も噛み合うし、大会本番でも崩れねえ。これは研究でも、現場でも、何度も証明されてる" %}
+
+{% include character.html name="flekky" position="left" text="…つまり、オレが今の状況を変えたかったら、まず『相手を理解する』ってことから始めればいい?" %}
+
+{% include character.html name="top" position="right" text="そういうことだ。だが、その『相手を理解する』って、本当はどういうことか。フッ、これが意外と分かってない奴が多い。ここで、世界の研究を引いてもらおう" %}
 
 {% include character.html name="top" position="right" text="マヤ、出番だ" %}
 
