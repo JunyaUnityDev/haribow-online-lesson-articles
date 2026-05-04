@@ -194,8 +194,8 @@ order: 6
 
 {% include character.html name="maya" position="right" text="メトロポリタン・オペラがある、世界最高峰の文化施設。クラシックの聖地。そこで、ハーレムの女の子たちが縄を跳んだ" %}
 
-![Lincoln Center プラザの Revson Fountain（リブソン噴水）]({{ '/assets/images/lincoln-center-fountain.jpg' | relative_url }})
-<small>撮影: Julie Feinstein（2010年）／ <a href="https://commons.wikimedia.org/wiki/File:Lincoln_Center_Fountain_(4855440782).jpg" target="_blank" rel="noopener">Wikimedia Commons</a> ／ <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a></small>
+![Lincoln Center for the Performing Arts プラザ — メトロポリタン・オペラ建物と Revson Fountain]({{ '/assets/images/lincoln-center-overview.jpg' | relative_url }})
+<small>撮影: Ajay Suresh（2019年）／ <a href="https://commons.wikimedia.org/wiki/File:Lincoln_Center_Overview_(48047495362).jpg" target="_blank" rel="noopener">Wikimedia Commons</a> ／ <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a></small>
 
 {% include character.html name="maya" position="right" text="物干しロープから始まった遊びが、世界の文化施設に立つまで、たった3年" %}
 
