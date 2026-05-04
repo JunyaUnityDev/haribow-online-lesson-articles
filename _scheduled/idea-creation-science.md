@@ -213,6 +213,8 @@ order: 12
 
 {% include character.html name="top" position="right" text="ここにいる、このメンバーで、お前らが本当に好きなものを掛け算して、世界に1つしかないものを作る。<br><br>**その心構えだけは、絶対に手放すな**" %}
 
+{% include character.html name="top" position="right" text="**流行りに乗るな。流行りを作れ**" %}
+
 {% include character.html name="flekky" position="left" text="…うっす!" %}
 
 {% include character.html name="top" position="right" text="(タバコ消しながら、独り言)…フッ、若いの。お前の番だ" %}
@@ -242,6 +244,8 @@ order: 12
 流行りに乗って有象無象に紛れるな。
 
 **自分のチームで、自分たちの好きなことで、勝ち方を作れ。**
+
+**流行りに乗るな。流行りを作れ。**
 
 明日からの100個、書き出してみよう。
 
