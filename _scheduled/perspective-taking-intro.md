@@ -89,6 +89,8 @@ order: 10
 
 {% include character.html name="maya" position="right" text="Galinsky たちは、こんな問いを立てた。『人と人が話す時、相手を理解する方法は2種類ある。どっちが効果あるのか?』<br><br>**1つ目: Perspective-taking(立場で考える)** — 頭で『相手はどう考えてるか』を理解する力。<br><br>**2つ目: Empathy(共感)** — 心で『相手の気持ちを感じる』力" %}
 
+![頭で考える Perspective-taking と、心で感じる Empathy]({{ '/assets/images/ai-generated/perspective-taking-ch2-head-vs-heart.jpeg' | relative_url }})
+
 {% include character.html name="flekky" position="left" text="…なんとなく似てるけど、確かに違うっすね" %}
 
 {% include character.html name="maya" position="right" text="そう。**頭で考える**か、**心で感じる**か。ここが分かれ道。<br><br>Galinsky たちは、152人の MBA 学生(MBA = Master of Business Administration、経営学を学ぶ大学院生)を3つのグループに分けて、**交渉ゲーム**(相手と取引や話し合いをする練習問題)をやらせた。誰が一番、お互いに得する結論にたどり着けるかを調べたの" %}
@@ -152,6 +154,8 @@ order: 10
 {% include character.html name="flekky" position="left" text="のうどうてき…?" %}
 
 {% include character.html name="maya" position="right" text="提唱したのは、**Carl Rogers(カール・ロジャーズ)**っていう20世紀の有名な心理学者。臨床心理学の世界で広く使われてる方法。<br><br>3つだけ覚えればいい。**繰り返す、確認する、否定しない**" %}
+
+![Active Listening の3つの基本 — 繰り返す / 確認する / 受け取る]({{ '/assets/images/ai-generated/perspective-taking-ch5-active-listening.png' | relative_url }})
 
 {% include character.html name="flekky" position="left" text="3つだけ?" %}
 

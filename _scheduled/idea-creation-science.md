@@ -121,6 +121,8 @@ order: 12
 
 {% include character.html name="maya" position="right" text="そう。当時の印刷は、版の上にインクを乗せて、紙を上から押す方法だった。グーテンベルクは、ぶどうを絞るための機械を見て、『これだ!』と気付いた。<br><br>全く違う2つの世界(印刷とワイン製造)が交差した瞬間に、世界を変える発明が生まれた" %}
 
+![ぶどう絞り器 × 活字 = 活版印刷機（Bisociation の代表例）]({{ '/assets/images/ai-generated/idea-creation-ch4-bisociation.jpeg' | relative_url }})
+
 {% include character.html name="top" position="right" text="孫正義もこれを使ってた。**異なる領域を、強制的に掛け算する**。技術 × 場所、人間 × 感情、業界 × 業界。普段は繋がらないものを、強制的に並べる" %}
 
 {% include character.html name="maya" position="right" text="面白いのはね、Koestler が言ってる重要なポイント。<br><br>**『違和感のある組み合わせほど、価値が出る』**<br><br>無難な組み合わせは、誰でも思いつく。**意味不明な組み合わせ** こそ、創造性の源" %}
@@ -142,6 +144,8 @@ order: 12
 {% include character.html name="flekky" position="left" text="うっす!" %}
 
 {% include character.html name="top" position="right" text="まず、要素に分解する。最低5軸。<br><br>**① 足(ステップ)** — ペダル、ハリー、スライド、その他<br>**② 跳び(タイミング)** — ベーシック、3チャオ、ワールド、その他<br>**③ 縄(ロープ操作)** — リリース、A面、スピード、ぶら下げ、その他<br>**④ 身体(動き)** — アクロ、フロア、上半身の表現、無動作<br>**⑤ 音(リズム)** — オンビート、裏取り、無音、ブレイク" %}
+
+![ダブルダッチを5軸に分解して、強制的に掛け算するマトリクス]({{ '/assets/images/ai-generated/idea-creation-ch5-five-axis-matrix.jpeg' | relative_url }})
 
 {% include character.html name="maya" position="right" text="じゃ、強制的に掛け算してみて。意味は考えない。**くだらないのOK**" %}
 
