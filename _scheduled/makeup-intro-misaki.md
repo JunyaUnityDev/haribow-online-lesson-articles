@@ -130,7 +130,11 @@ order: 8
 
 ここで、3つの基本アイテムをもう少し詳しく見ていこう。それぞれ「何ができるか / 選び方 / 使い方 / 注意」で整理する。完全な入門者向け、買う前に読む基礎知識。
 
+![基本3アイテム — アイライナー / 下地 / リップ]({{ '/assets/images/ai-generated/makeup-intro-misaki-3items.png' | relative_url }})
+
 ### 1️⃣ アイライナー — 目元を引き締める
+
+![アイライナーを引く位置]({{ '/assets/images/ai-generated/makeup-intro-misaki-eyeliner.png' | relative_url }})
 
 **何ができるか**:
 - 目の輪郭をはっきりさせて、表情を強くする
@@ -153,6 +157,8 @@ order: 8
 - 失敗したら綿棒 + 乳液で軽く拭けば消せる
 
 ### 2️⃣ 下地 — 肌のトーンを整える
+
+![下地を塗る5点 — 額・両頬・鼻・あご]({{ '/assets/images/ai-generated/makeup-intro-misaki-base.png' | relative_url }})
 
 **何ができるか**:
 - 肌の色ムラ・赤み・くすみを整えて、舞台でも「顔が飛ばない」状態に
@@ -178,6 +184,8 @@ order: 8
 
 ### 3️⃣ リップ — 顔色を良く見せる
 
+![リップを塗る位置]({{ '/assets/images/ai-generated/makeup-intro-misaki-lip.png' | relative_url }})
+
 **何ができるか**:
 - 顔全体の血色感を上げて、生き生きした印象に
 - 照明下でも顔が「白く飛ばない」効果
@@ -198,6 +206,8 @@ order: 8
 **注意**:
 - 男性は「ツヤツヤしすぎ」に注意、マットなものを選ぶ
 - 食事の前後では塗り直す
+
+![3アイテムを使ったメイクの流れ図]({{ '/assets/images/ai-generated/makeup-intro-misaki-flow.png' | relative_url }})
 
 ---
 
