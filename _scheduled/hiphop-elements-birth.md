@@ -19,7 +19,7 @@ order: 14
 
 ## 💭 プロローグ: ヒップホップって、ただの音楽じゃないらしい
 
-{% include character.html name="flekky" position="left" text="トップさん、5月にヒップホップ起源の話、聞かせてもらったじゃないっすか" %}
+{% include character.html name="flekky" position="left" text="トップさん、前にヒップホップ起源の話、聞かせてもらったじゃないっすか" %}
 
 {% include character.html name="top" position="right" text="Kool Herc の話か。Apache が鳴った夜の" %}
 
@@ -46,7 +46,7 @@ order: 14
 
 {% include character.html name="top" position="right" text="これが、ヒップホップの **第一の要素 — DJ** の誕生" %}
 
-{% include character.html name="flekky" position="left" text="ここまでは、5月の話っすね" %}
+{% include character.html name="flekky" position="left" text="ここまでは、前回の話っすね" %}
 
 {% include character.html name="top" position="right" text="そう。**でもな、その時はまだ『ヒップホップ』って言葉はなかった**。<br><br>**ただの『ブロンクスのパーティー』だった**" %}
 
@@ -146,7 +146,7 @@ order: 14
 
 {% include character.html name="flekky" position="left" text="!" %}
 
-{% include character.html name="top" position="right" text="**そう、覚えてるだろ?6月のダブルダッチ起源の話**。<br><br>**ヒップホップとダブルダッチは、あの夜、繋がってた**" %}
+{% include character.html name="top" position="right" text="**そう、覚えてるだろ?ダブルダッチ起源で話した夜だ**。<br><br>**ヒップホップとダブルダッチは、あの夜、繋がってた**" %}
 
 ---
 
@@ -172,7 +172,7 @@ order: 14
 
 ---
 
-{% include character.html name="top" position="right" text="1982年11月、**New York City Rap Tour** が始まる。<br><br>ヨーロッパへ、フランス、パリ、リヨン、メス、ベルフォール、ミュルーズ。<br><br>DJ、MC、Bboy、グラフィティ — 4要素のすべてが、ヨーロッパに紹介された。<br><br>そして、**Fantastic Four もそのツアーに同行した**(これも6・7月の記事で書いた話)" %}
+{% include character.html name="top" position="right" text="1982年11月、**New York City Rap Tour** が始まる。<br><br>ヨーロッパへ、フランス、パリ、リヨン、メス、ベルフォール、ミュルーズ。<br><br>DJ、MC、Bboy、グラフィティ — 4要素のすべてが、ヨーロッパに紹介された。<br><br>そして、**Fantastic Four もそのツアーに同行した**(これもダブルダッチ起源で書いた話)" %}
 
 ![1982年11月29日、フランス・メス（Metz）でのNew York City Rap Tour。ターンテーブルの前で縄を跳ぶ Fantastic Four]({{ '/assets/images/nyc-rap-tour-paris-1982.jpg' | relative_url }})
 <small>写真出典: <a href="https://www.republicain-lorrain.fr/actualite/2019/01/25/nyc-rap-tour-en-1982-la-france-et-metz-decouvrent-la-culture-hip-hop-us" target="_blank" rel="noopener">Le Républicain Lorrain — NYC Rap Tour en 1982</a>（Le Républicain Lorrain アーカイブ）</small>
@@ -233,7 +233,7 @@ DJ、MC、Bboy、グラフィティ。
 - 小学生時代、テストで全部の問題が解けなかった時に何も書かずに出して「間違ってない=ノーミス=100点です」と先生に言い張った事がある
 - 口癖:「マジで?」「やばっ」「すげーすげー」
 
-{% include character.html name="top" position="right" text="フッ…俺がトップだ。52歳、関内のレコード屋やってる。今回は5月のヒップホップ起源、6・7月のダブルダッチ起源と繋げて、シリーズ完結編を語る役だ" %}
+{% include character.html name="top" position="right" text="フッ…俺がトップだ。52歳、関内のレコード屋やってる。今回はヒップホップ起源、ダブルダッチ起源(前後編)と繋げて、シリーズ完結編を語る役だ" %}
 
 **トップ(ベテラン)**
 
