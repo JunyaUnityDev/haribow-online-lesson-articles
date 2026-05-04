@@ -41,6 +41,9 @@ order: 14
 
 {% include character.html name="top" position="right" text="時間軸を、もう一回確認するぞ。<br><br>**1973年8月11日**、ブロンクスの団地、1520 Sedgwick Avenue。<br><br>18歳の DJ Kool Herc が、妹の制服を買うためのパーティーで、**ブレイクビーツを発明した**。<br><br>**音楽を『踊るための長い間奏』として再構築した瞬間**" %}
 
+![ブロンクス、1520 Sedgwick Avenue（ヒップホップ発祥の建物）]({{ '/assets/images/1520-sedgwick-avenue.jpg' | relative_url }})
+<small>撮影: Bigtimepeace（2009年）／ <a href="https://commons.wikimedia.org/wiki/File:1520_Sedwick_Ave.,_Bronx,_New_York1.JPG" target="_blank" rel="noopener">Wikimedia Commons</a>（Public Domain）</small>
+
 {% include character.html name="top" position="right" text="これが、ヒップホップの **第一の要素 — DJ** の誕生" %}
 
 {% include character.html name="flekky" position="left" text="ここまでは、5月の話っすね" %}
@@ -64,6 +67,9 @@ order: 14
 {% include character.html name="top" position="right" text="1970年代のブロンクスは、**地獄だった**。<br><br>Cross Bronx Expressway(クロス・ブロンクス・エクスプレスウェイ)っていう高速道路の建設で、街が分断され、住宅価格が暴落。<br><br>仕事を失い、貧困、ドラッグ、放火、廃墟。ニューヨーカーは『Bronx is burning(ブロンクスは燃えてる)』って言ってた" %}
 
 {% include character.html name="top" position="right" text="そんな中、**ストリートを支配していたのは、ギャングだった**" %}
+
+![焼け落ちたビルに描かれた『FALSAS PROMESAS / BROKEN PROMISES』のステンシル（南ブロンクス、1980年）]({{ '/assets/images/south-bronx-broken-promises-1980.jpg' | relative_url }})
+<small>写真: John Fekner, "Broken Promises" South Bronx（1980年）／ <a href="https://commons.wikimedia.org/wiki/File:BrokenPromises_JohnFekner.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>／ <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a></small>
 
 ---
 
@@ -135,6 +141,9 @@ order: 14
 
 {% include character.html name="top" position="right" text="**1981年、Rock Steady Crew はパフォーマンスを Lincoln Center で披露**。<br><br>**1982年、彼らはハーレムのダブルダッチチーム Fantastic Four と一緒に、The Roxy で踊った**" %}
 
+![Fantastic Four（American Double Dutch League のユニフォーム姿、4人の集合写真）]({{ '/assets/images/fantastic-four-1980.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.opb.org/article/2022/12/06/how-the-fantastic-four-took-double-dutch-to-new-heights/" target="_blank" rel="noopener">OPB — How the Fantastic Four took Double Dutch to new heights</a></small>
+
 {% include character.html name="flekky" position="left" text="!" %}
 
 {% include character.html name="top" position="right" text="**そう、覚えてるだろ?6月のダブルダッチ起源の話**。<br><br>**ヒップホップとダブルダッチは、あの夜、繋がってた**" %}
@@ -164,6 +173,9 @@ order: 14
 ---
 
 {% include character.html name="top" position="right" text="1982年11月、**New York City Rap Tour** が始まる。<br><br>ヨーロッパへ、フランス、パリ、リヨン、メス、ベルフォール、ミュルーズ。<br><br>DJ、MC、Bboy、グラフィティ — 4要素のすべてが、ヨーロッパに紹介された。<br><br>そして、**Fantastic Four もそのツアーに同行した**(これも6・7月の記事で書いた話)" %}
+
+![1982年11月29日、フランス・メス（Metz）でのNew York City Rap Tour。ターンテーブルの前で縄を跳ぶ Fantastic Four]({{ '/assets/images/nyc-rap-tour-paris-1982.jpg' | relative_url }})
+<small>写真出典: <a href="https://www.republicain-lorrain.fr/actualite/2019/01/25/nyc-rap-tour-en-1982-la-france-et-metz-decouvrent-la-culture-hip-hop-us" target="_blank" rel="noopener">Le Républicain Lorrain — NYC Rap Tour en 1982</a>（Le Républicain Lorrain アーカイブ）</small>
 
 ---
 
