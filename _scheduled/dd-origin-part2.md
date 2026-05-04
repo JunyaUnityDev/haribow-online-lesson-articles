@@ -94,6 +94,9 @@ order: 7
 
 {% include character.html name="maya" position="right" text="Ruza Blue は、ヒップホップに女性のエネルギーを入れるために、本気で動いた" %}
 
+![1982年の The Roxy のフロアのイメージ]({{ '/assets/images/ai-generated/dd-origin-part2-ch2-roxy-club.jpeg' | relative_url }})
+<small>※ 写真はイメージです。AI（Gemini）で生成。</small>
+
 ---
 
 ## 🎵 第三章:5つのカルチャーが、同じ床の上で生きていた夜
@@ -109,6 +112,9 @@ order: 7
 {% include character.html name="maya" position="right" text="そして、Rock Steady Crew(ロック・ステディ・クルー)がブレイクダンスを始める前" %}
 
 {% include character.html name="maya" position="right" text="フロアの真ん中で、Fantastic Four が縄を跳んだ" %}
+
+![DJ・MC・グラフィティ・Bboy・Double Dutch が同じフロアに同居するイメージ]({{ '/assets/images/ai-generated/dd-origin-part2-ch3-five-cultures.jpeg' | relative_url }})
+<small>※ 写真はイメージです。AI（Gemini）で生成。</small>
 
 {% include character.html name="flekky" position="left" text="うわぁ…" %}
 

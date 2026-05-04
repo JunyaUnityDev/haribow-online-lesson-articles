@@ -37,6 +37,9 @@ order: 6
 
 {% include character.html name="maya" position="right" text="黒人の女の子たちが、家の物干しロープを2本、街角に持ち出した" %}
 
+![ハーレムの街角でダブルダッチを跳ぶ少女たち（1940-50年代のイメージ）]({{ '/assets/images/ai-generated/dd-origin-part1-ch1-harlem-girls.jpeg' | relative_url }})
+<small>※ 写真はイメージです。AI（Gemini）で生成。</small>
+
 {% include character.html name="maya" position="right" text="友達が回す、自分が跳ぶ、誰かが歌う。『Miss Mary Mack(ミス・メアリー・マック)』っていう、当時流行ってた歌のチャント" %}
 
 {% include character.html name="flekky" position="left" text="歌いながら跳ぶんすか?" %}
@@ -122,6 +125,9 @@ order: 6
 
 {% include character.html name="maya" position="right" text="2人の警官、1人の妻、1人の赤ん坊。物語が始まった夜は、そういう夜だったの" %}
 
+![David A. Walker（中央、後年の Skyscraper Cycling Classic 表彰式にて）]({{ '/assets/images/david-walker-nddl.jpg' | relative_url }})
+<small>写真出典: <a href="http://www.nationaldoubledutchleague.com/founder/" target="_blank" rel="noopener">National Double Dutch League — Founder David A. Walker</a></small>
+
 ---
 
 ## 🎯 第四章:他のスポーツから「いいとこ取り」したルール
@@ -171,6 +177,9 @@ order: 6
 {% include character.html name="maya" position="right" text="その会場で、デイブとマイクは、警官の制服のまま、子供たちの輪の中にいた" %}
 
 {% include character.html name="maya" position="right" text="想像してみて。冬の体育館。蛍光灯の下、子供たちの笑い声、縄が床を打つ音、子供たちの靴底のキュッキュッていう音" %}
+
+![1974年バレンタインデー、Intermediate School 10 体育館での大会のイメージ]({{ '/assets/images/ai-generated/dd-origin-part1-ch5-1974-tournament.jpeg' | relative_url }})
+<small>※ 写真はイメージです。AI（Gemini）で生成。</small>
 
 {% include character.html name="maya" position="right" text="2人の刑事は、その音の中に立ってた" %}
 
