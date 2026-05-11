@@ -31,68 +31,80 @@ order: 6
 
 {% include character.html name="shine" position="left" text="みさちゃーん、ちょっと聞いて聞いて。あたし最近、後輩の女の子たちに『シャインさん、舞台のメイク教えて〜』って言われるんだけどさぁ" %}
 
-**MISAKI:** うんうん。
+**MISAKI:** はい。
 
 {% include character.html name="shine" position="left" text="自分の普段メイクはできるんだよ?でも、舞台メイクって全然別物じゃん?しかも小学生から高校生まで年齢バラバラで…ヤバくない?ヤバくない?あたしどうすればいいの" %}
 
-**MISAKI:** (笑)落ち着いて。一個ずつ整理しましょう。
+**MISAKI:** (笑)一個ずつ整理しましょうか。
 
 {% include character.html name="shine" position="left" text="お願いっ、みさちゃん先生!!" %}
 
-舞台メイク歴12年、HARIBOW のメイクと衣装を一手に担う MISAKI に、シャインが弟子入り志願。
+舞台メイク歴12年、HARIBOW のメイクと衣装を一手に担う **MISAKI** に、シャインが弟子入り志願。
 
 これは、**普段メイクができる人が、舞台メイクの一歩目を踏み出すための講座**。そして、**子供に教える立場になった人へのヒント集**。
 
 ---
 
-## 🎭 第一章: シャインってどんな人？
+## 🎭 第一章: MISAKI ってどんな人？
 
-{% include character.html name="shine" position="left" text="あたし?あたしはダブルダッチ歴8年、25歳、沖縄出身。プレイヤー兼ファッションスタイリストやってるシャインで〜す!" %}
+![HARIBOW プレイヤー兼メイク・衣装担当の MISAKI]({{ '/assets/images/misaki-portrait.jpg' | relative_url }})
 
-**MISAKI:** スタイリストもやってるなら、衣装の引き出しはすごいよね。
+{% include character.html name="shine" position="left" text="そういえばさ、みさちゃんって改めて自己紹介すると、どんな人なの?" %}
 
-{% include character.html name="shine" position="left" text="衣装はね、まあ、得意分野。でもさ、メイクって衣装の延長じゃないんだよね。あれ別の言語じゃん?" %}
+**MISAKI:** ダブルダッチ歴は12年です。
 
-**MISAKI:** 別の言語、いい表現だね。実はそこ、めちゃくちゃ大事。
+{% include character.html name="shine" position="left" text="12年!?あたしより4年も先輩じゃん" %}
 
-{% include character.html name="shine" position="left" text="うっそ、待ってマジ?(笑)" %}
+**MISAKI:** HARIBOWでの役割は、スピード、メイク、衣装の3つ。
+
+{% include character.html name="shine" position="left" text="跳んで、塗って、着せて。一人三役…ヤバくない?ヤバくない?" %}
+
+**MISAKI:** 女性らしい魅せ方のスピードと、競技スピード。両方やっています。
+
+{% include character.html name="shine" position="left" text="魅せ方も競技もできるって、最強じゃん…(尊敬)" %}
+
+---
+
+印象に残っている舞台について聞くと、MISAKI はこう答えた。
+
+**MISAKI:** Incroyable Talent 2025 です。
+
+これはフランスのオーディション番組「La France a un Incroyable Talent（France's Got Talent）」のこと。HARIBOWは2025年、この番組の予選に出場し、大歓声を浴びた。
+
+その時の映像はこちら（3:07 から HARIBOW のパフォーマンス）:
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/kw4T0qslh90?start=187" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<small>動画: La France a un Incroyable Talent 2025（YouTube）</small>
+
+{% include character.html name="shine" position="left" text="フランスで大歓声…!!みさちゃん、世界レベルじゃん…" %}
 
 ---
 
 ## 💄 第二章: 普段メイク vs 舞台メイクは「別物」
 
-<!-- IMAGE PROMPT: 左右で対比した図解。左は柔らかい自然光の中で女性が自分らしい普段メイクをしている様子（自己表現の象徴として小さなハートや色のアクセント）、右は強い舞台照明の下で陰影のはっきりした舞台メイクをした女性パフォーマー（表現の幅の象徴としてスポットライトや色彩のエフェクト）。フラットイラスト調、女性顔の前面、HARIBOWの落ち着いた色味、説明用ダイアグラム。文字は入れない。 -->
 ![普段メイクと舞台メイクの違い]({{ '/assets/images/ai-generated/makeup-intro-shine-daily-vs-stage.jpeg' | relative_url }})
 
-{% include character.html name="shine" position="left" text="ねぇみさちゃん、そもそも普段メイクと舞台メイクって、何が違うの?一言で言うと" %}
+{% include character.html name="shine" position="left" text="で、本題なんだけどさ。普段メイクと舞台メイクって、何が違うの?一言で言うと?" %}
 
-**MISAKI:** 一言でね。**普段メイクは自己表現をするもの。舞台メイクは表現の幅を広げるツール。**
+**MISAKI:** 普段メイクは自己表現をするもの。舞台メイクは表現の幅を広げるツール。
 
-{% include character.html name="shine" position="left" text="…うわ、深っ。もう一回言って" %}
-
-**MISAKI:** 普段メイクは自己表現。「あたしはこういう人」を見せる。舞台メイクは違って、「今日のパフォーマンスでは、こういう人になる」っていう、表現の幅を広げる道具。
-
-{% include character.html name="shine" position="left" text="えっ待って待って、それって自分じゃなくなるってこと?" %}
-
-**MISAKI:** ううん、自分は土台にあるよ。でも、その上で **「今日はこのキャラ」「次の曲ではこの色」** っていうのを乗せていく。
+{% include character.html name="shine" position="left" text="…一言、シャープすぎ。もう一回言って、メモするから" %}
 
 ---
 
 {% include character.html name="shine" position="left" text="じゃあさ、普段メイクの感覚で舞台に立つと、何が起きるの?" %}
 
-**MISAKI:** **顔が光飛びしてしまって、薄く見える。** だから、印象に残りにくくなる。
+**MISAKI:** 顔が光飛びしてしまい、薄く見えます。そのため印象に残りにくくなります!
 
 {% include character.html name="shine" position="left" text="光飛び!?何それ怖い" %}
 
-**MISAKI:** 舞台の照明って、すっごく強いの。普段メイクの濃さだと、その光に負けちゃって、陰影が全部飛んじゃう。**のっぺり見える。**
+舞台の照明は、想像以上に強い。普段メイクの濃さでは、その光に陰影が負けてしまい、顔がのっぺりと「薄く」客席から見えてしまう。これが「光飛び」。
 
-{% include character.html name="shine" position="left" text="のっぺり…うわ、想像つく。客席から見たら誰?ってなるやつ" %}
+---
 
-**MISAKI:** そう。だから「普段メイク + α で舞台メイクになる」って思ってる人、けっこう多いんだけど——
+{% include character.html name="shine" position="left" text="『普段メイク + α』で舞台メイクになる、っていうのは正しいの?それとも別物?" %}
 
-{% include character.html name="shine" position="left" text="うんうん、あたしもそう思ってた!" %}
-
-**MISAKI:** **私の中では別物。** 舞台メイクは、アートに近い。表現したいものを、顔にメイクとして創り上げていく感覚。
+**MISAKI:** 私の中では別物です。舞台メイクはアートに近いです。表現したいものを顔に、メイクとして創り上げていく感覚です。
 
 {% include character.html name="shine" position="left" text="アート…!!!みさちゃん、それカッコよすぎる" %}
 
@@ -100,101 +112,81 @@ order: 6
 
 ## 🦴 第三章: 顔を飛ばさない、骨格でつくるベース
 
-<!-- IMAGE PROMPT: 女性の顔正面イラストに、シェーディング（影）とハイライト（光）を入れる位置を色分けで示した解剖学的ダイアグラム。シェーディング=こめかみ・頬骨下・あごライン・鼻筋脇、ハイライト=額中央・鼻筋・頬骨上・あご先・目下三角ゾーン。フラットイラスト、淡い肌色をベースに、影は薄いグレージュ、光は薄いベージュ。矢印や記号で位置を指示するが、文字は入れない。 -->
 ![骨格にそってシェーディングとハイライトを入れる位置]({{ '/assets/images/ai-generated/makeup-intro-shine-base-contour.jpeg' | relative_url }})
 
-{% include character.html name="shine" position="left" text="光飛びを防ぐには、具体的にどうすればいいの?" %}
+「光飛び」を防ぐにはどうすればいいのか。MISAKI に、もう少し具体的に聞いた。
 
-**MISAKI:** **ベースの骨格作りをしっかりやること。**
+**MISAKI:** 光により顔の陰影がなくなってしまい、のっぺり見えてしまう現象。ベースの骨格作りをしっかり行うこと。基本的にメイクは思っている二倍ほど濃くて良いです!
 
-{% include character.html name="shine" position="left" text="骨格作り…ほぼ建築用語じゃん" %}
+{% include character.html name="shine" position="left" text="二倍!?それ普段やったら職質されるレベルじゃん" %}
 
-**MISAKI:** (笑)シェーディングとハイライトで、顔の骨の形に沿って影と光を入れていくの。**普段の2倍くらい濃くてちょうどいい。**
-
-{% include character.html name="shine" position="left" text="2倍!?それ普段やったら職質されるレベルじゃん" %}
-
-**MISAKI:** 舞台ではちょうどいいの。基本的にメイクは、**思っている2倍ほど濃くて大丈夫。**
+舞台ではちょうどいい濃さ、というのが MISAKI のスタンス。
 
 ---
 
 {% include character.html name="shine" position="left" text="ベースメイクって、普段と同じやり方でいいの?変える?" %}
 
-**MISAKI:** 変える。**海外の方と同じくらい、顔に立体感を感じるようにする。**
+**MISAKI:** 変えます!海外の方と同じくらい、顔に立体感を感じるようにします。
 
-{% include character.html name="shine" position="left" text="海外の方!?確かに、海外モデルって顔の彫り深いもんね" %}
+{% include character.html name="shine" position="left" text="海外の方くらい!?確かに、海外モデルって顔の彫り深いもんね" %}
 
-**MISAKI:** 日本人の顔って、もともと平面的に見えやすいから、舞台だとさらに飛んじゃう。だから、自分で立体感を作りにいく。
+日本人の顔は、もともと平面的に見えやすい。舞台ではさらに飛びやすくなる。だから、自分で立体感を「作りにいく」。
+
+---
 
 {% include character.html name="shine" position="left" text="で、普段メイクから舞台メイクへ、結局、何を強めるの?" %}
 
-**MISAKI:** **基本的には全部強める。** でも、全体のバランスを見て、引き算もする。
+**MISAKI:** 基本的には全て強めます。しかし、全体のバランスを見て引き算も行います。
 
-{% include character.html name="shine" position="left" text="全部強めて、バランスで引く…!!ちょっとそれ料理に似てる" %}
-
-**MISAKI:** あー、近いかも。**まず全部入れてから、味見して整える。**
+{% include character.html name="shine" position="left" text="全部強めて、バランスで引く…!!まるで料理じゃん" %}
 
 ---
 
 ## 💦 第四章: 汗・崩れ・落とし方のリアル
 
-<!-- IMAGE PROMPT: 女性の頬に汗が浮いているイラスト。隣にティッシュやコットンで「擦らずに、押さえるように」拭く動作を示す矢印付きの図。NGとして×印つきの「ゴシゴシ拭く」動作も小さく添える。フラットイラスト、淡い肌色、HARIBOWの落ち着いた色味。動作の比較ダイアグラム。文字は入れない。 -->
 ![汗を擦らずに押さえて拭くケアの図]({{ '/assets/images/ai-generated/makeup-intro-shine-sweat-care.jpeg' | relative_url }})
 
-{% include character.html name="shine" position="left" text="ダブルダッチって、めちゃくちゃ汗かくじゃん?汗対策ってどうしてるの?" %}
+ダブルダッチは、汗だくの競技。崩れ対策は必須。
 
-**MISAKI:** **なるべく、汗をかく練習を終えた後でメイクをする。**
+{% include character.html name="shine" position="left" text="汗対策って、具体的に何してるの?" %}
 
-{% include character.html name="shine" position="left" text="あ、その発想!?練習前じゃなくて後なんだ" %}
+**MISAKI:** なるべく汗をかく練習を終えた後でメイクを行います。また、汗を拭くときは擦るような拭き方はしないようにしています。
 
-**MISAKI:** 練習中に汗で崩れちゃうの、もったいないから。**メイクは「本番直前」に仕上げる。**
+{% include character.html name="shine" position="left" text="練習前じゃなくて、後にメイクするんだ!" %}
 
-{% include character.html name="shine" position="left" text="なるほど…リハの前にバッチリ仕上げてる子、けっこういるよね" %}
+メイクは本番直前に仕上げる。それまでに崩れる要素は、できるだけ排除する。
 
-**MISAKI:** あと、**汗を拭くときは、擦るような拭き方はしない。**
+{% include character.html name="shine" position="left" text="拭き方も、擦らないんだね。じゃあどうやって拭くの?" %}
 
-{% include character.html name="shine" position="left" text="擦るとどうなるの?" %}
-
-**MISAKI:** メイクが剥がれる。せっかく作った骨格が、一拭きで全部なくなっちゃう。
-
-{% include character.html name="shine" position="left" text="うわ、悲しすぎる" %}
-
-**MISAKI:** ティッシュとかで、**押さえるように、ポンポン。** これだけで全然違うから。
+ティッシュやコットンで、上から「押さえる」。ポンポン、と軽く乗せるイメージ。これだけで持ちが全然違う。
 
 ---
 
-{% include character.html name="shine" position="left" text="メイクの「落としやすさ」も考えてるの?舞台後のケアまで含めて" %}
+{% include character.html name="shine" position="left" text="落としやすさとかも考えてる?舞台後のケアまで含めて" %}
 
-**MISAKI:** あんまり考えてない。(笑)
+**MISAKI:** あまり考えていません。笑 ただ、肌が弱い子は本人と相談しながら使うメイク道具を決めたり、メイク落としシートを持ち運びます!
 
-{% include character.html name="shine" position="left" text="えっそうなんだ!?" %}
+{% include character.html name="shine" position="left" text="えっそうなんだ!?…でも、肌弱い子は本人と相談、ってのが優しいね" %}
 
-**MISAKI:** ただ、**肌が弱い子は本人と相談しながら使うメイク道具を決める。** あとはメイク落としシートを持ち運ぶ。
-
-{% include character.html name="shine" position="left" text="本人と相談…大事だね。子供だと特に、肌のこと本人しかわからない部分あるし" %}
-
-**MISAKI:** うん、肌は本当に個人差大きいから。
+肌の個人差は、本当に大きい。教える立場になった時、ここは特に気をつけたい部分。
 
 ---
 
 ## 🌈 第五章: シーンで変える、というプロの選択
 
-{% include character.html name="shine" position="left" text="大会・コンテストと、ショー・パフォーマンスで、メイクって変える?" %}
+{% include character.html name="shine" position="left" text="大会・コンテストと、ショー・パフォーマンスで、メイクって変えるの?" %}
 
-**MISAKI:** 変える。**全てのメイクは、パフォーマンス内容・曲・メンバー・表現するテーマをもとに、毎回変化させる。**
+**MISAKI:** 全てのメイクは、パフォーマンス内容・曲・メンバー・表現するテーマをもとに毎回変化させます。
 
 {% include character.html name="shine" position="left" text="まいかい!?毎回変えるの!?" %}
 
-**MISAKI:** 毎回。
+「毎回」。それが、MISAKI の答え。
 
 {% include character.html name="shine" position="left" text="それ、めちゃくちゃ大変じゃん…" %}
 
-**MISAKI:** 大変だけど、それがプロの仕事。だって、**同じメイクで全部のパフォーマンスやったら、表現の幅が広がらない。**
+大変だけど、それがプロの仕事。同じメイクで全部のパフォーマンスをやると、表現の幅は広がらない。**舞台メイクは「表現の幅を広げるツール」** という、第二章の話とここで繋がる。
 
-{% include character.html name="shine" position="left" text="…さっきの「舞台メイクは表現の幅を広げるツール」って話、ここに繋がるんだ" %}
-
-**MISAKI:** そう。曲が変われば伝えたい感情も変わる。メンバーの並びが変われば、見せたい色味も変わる。**毎回、最初から組み立て直す。**
-
-{% include character.html name="shine" position="left" text="うっそ、待って、それメモするわ" %}
+{% include character.html name="shine" position="left" text="…さっきの話、ここに繋がるんだ。深っ" %}
 
 ---
 
@@ -204,60 +196,45 @@ order: 6
 
 ## 🌱 第六章: 子供（小学生〜高校生）に教える時、まず伝えたいこと
 
-<!-- IMAGE PROMPT: 段階的にメイクを覚える子供のイラストを横並びで3つ。①眉毛だけ整えた小さな女の子、②眉毛＋アイメイクを足した中学生くらいの女の子、③眉毛＋アイメイク＋下地を足した高校生くらいの女の子。徐々に増えていくステップを矢印で繋ぐ。フラットイラスト、優しい色味、笑顔。文字は入れない。 -->
 ![子供に教える時の段階的アプローチ図]({{ '/assets/images/ai-generated/makeup-intro-shine-kids-step.jpeg' | relative_url }})
 
 {% include character.html name="shine" position="left" text="ここからが本題なんだけど…小学生から高校生の子にメイクを教える時、一番伝えたいことって何?" %}
 
-**MISAKI:** **メイクは恥ずかしいことではなくて、新しい自分になるためのツールの一つ。チャレンジしてみてください、っていうこと。**
+**MISAKI:** メイクは恥ずかしいことではなく、新しい自分になるためのツールの一つです!チャレンジしてみてください⭐️
 
 {% include character.html name="shine" position="left" text="新しい自分になるためのツール…!!!みさちゃん、それ最高じゃん" %}
 
-**MISAKI:** 子供って、メイクに対して「大人がやるもの」「派手なもの」っていうイメージが先に来ちゃう子が多くて。でも、本当はそうじゃない。
-
-{% include character.html name="shine" position="left" text="うんうん、確かに。あたしも最初そう思ってた" %}
-
-**MISAKI:** **「メイク = キャラクターを変える楽しさ」** っていう入口で教えてあげるのが、一番自然。
+子供は、メイクに対して「大人がやるもの」「派手なもの」というイメージが先に立ちやすい。そこを最初にほどく言葉。
 
 ---
 
 {% include character.html name="shine" position="left" text="子供って、肌も骨格も動きも大人と違うじゃん?気をつけることある?" %}
 
-**MISAKI:** ある。**顔の骨格がまだ完成されきっていないから、ベースの作り方が大人と変わってくる。**
+**MISAKI:** 顔の骨格がまだ完成されきっていないため、ベースの作り方（骨格形成）が大人とは変わってきます。
 
 {% include character.html name="shine" position="left" text="骨格、まだ完成してないんだ" %}
 
-**MISAKI:** 特に小学生は、まだ柔らかい。大人と同じシェーディングを入れると、不自然になっちゃうことも。**子供の顔には、その子の骨格に合わせたベース作りが必要。**
-
-{% include character.html name="shine" position="left" text="…めちゃくちゃ専門的な話になってきた" %}
-
-**MISAKI:** だから、**「教える側が、その子の顔をよく見る」** ことが大事。
+特に小学生は、まだ柔らかい。大人と同じシェーディングを入れると、不自然に見えることもある。**「教える側が、その子の顔をよく見る」** ことが必要になる。
 
 ---
 
 {% include character.html name="shine" position="left" text="もし子供が『メイク嫌だ』ってなったら、どうする?" %}
 
-**MISAKI:** **何が嫌なのかを、聞きながら進める。** 無理矢理にならないように、最初は眉毛だけ、次にアイメイク、その次に下地…って、少しずつ増やしていく。
+**MISAKI:** 何が嫌なのか、聞きながら進めていきます。無理矢理にならないように、最初は眉毛だけ、次にアイメイク、下地など増やしていきます。
 
-{% include character.html name="shine" position="left" text="段階的に。これ、めちゃくちゃ大事だね" %}
+{% include character.html name="shine" position="left" text="段階的に、なんだね" %}
 
-**MISAKI:** 一気に全部やると、子供は怖くなる。**「これだけだよ」って、毎回小さく区切る。**
-
-{% include character.html name="shine" position="left" text="あたし、最初から張り切ってフルメイクしちゃいそう…気をつけよ" %}
+一気にフルメイクにせず、毎回小さく区切る。これがコツ。
 
 ---
 
 {% include character.html name="shine" position="left" text="『メイクが楽しい!』って思わせるコツって、ある?" %}
 
-**MISAKI:** **メイクをしている時のパフォーマンス動画を、一緒に見る。** そして、**何がいいのか、たくさん褒めてあげる。**
+**MISAKI:** メイクをしているときのパフォーマンス動画を一緒に見る。そして何がいいのか、たくさん褒めてあげることが大切だと思います!
 
 {% include character.html name="shine" position="left" text="動画見せるんだ!" %}
 
-**MISAKI:** 自分のメイクした顔がパフォーマンスでどう映ってるか、客観的に見ると、子供って **「あ、あたしカッコいい」** ってなるの。
-
-{% include character.html name="shine" position="left" text="それ、絶対なるやつじゃん…" %}
-
-**MISAKI:** その瞬間が、メイクを好きになる入口。だから、**褒めるのは具体的に。** 「目力すごいね」「ここの陰影、めっちゃキマってる」って。
+メイクした自分の顔がパフォーマンスでどう映っているか、客観的に見ることで、子供は「あ、自分カッコいい」と気づける。その瞬間が、メイクを好きになる入口。
 
 ---
 
@@ -265,19 +242,11 @@ order: 6
 
 {% include character.html name="shine" position="left" text="逆に、子供のメイクでこれは絶対やめてって思うことある?" %}
 
-**MISAKI:** ある。**ただ赤いリップとか、奇抜なリップを塗ること。**
+**MISAKI:** ただ赤いリップや奇抜なリップを塗ることは、人によってはメイクが嫌になる原因にもなると思います。本人の意思を聞き入れることも大切です!
 
-{% include character.html name="shine" position="left" text="赤リップ!?可愛いと思っちゃうけど…" %}
+{% include character.html name="shine" position="left" text="可愛い!って大人が思っちゃうやつ、要注意なんだ" %}
 
-**MISAKI:** 大人視点で「可愛い」と思って塗っちゃうのが、一番危ない。**人によっては、メイクが嫌になる原因になる。**
-
-{% include character.html name="shine" position="left" text="嫌になる…!!" %}
-
-**MISAKI:** だから、**本人の意思を聞き入れることが、本当に大切。** 「これ塗ってみる?」って聞いて、嫌そうな顔したら、無理にやらせない。
-
-{% include character.html name="shine" position="left" text="その子の『嫌』を、ちゃんと拾うってことか" %}
-
-**MISAKI:** うん。**子供に大人のメイクを押し付けない。** メイクは、その子のためのものだから。
+大人視点での「可愛い」と、その子にとっての「やりたい」は別物。**子供に大人のメイクを押し付けない。** メイクは、その子のためのもの。
 
 {% include character.html name="shine" position="left" text="…これ、教える側のあたしが一番気をつけなきゃいけないやつだね" %}
 
@@ -285,52 +254,37 @@ order: 6
 
 ## 🪞 第八章: 教える側になるあなたへ（シャインへ）
 
-<!-- IMAGE PROMPT: 鏡の前でメイクの仕上がりをチェックしている女性のイラスト。隣に「これはOK」「これは気にしすぎ」のマーキング図。OK例：アイラインが少し滲んでいる、マスカラが瞼に少し付いている、左右が完全に対称じゃない。NG例（小さく）：アイラインがまったく描けていない、ベースが塗れていない。フラットイラスト、優しい色味、チェックリスト風のレイアウト。文字は入れない。 -->
 ![失敗OKラインと、気をつけるべき失敗の図]({{ '/assets/images/ai-generated/makeup-intro-shine-failure-line.jpeg' | relative_url }})
 
-{% include character.html name="shine" position="left" text="で、結局あたしみたいに、自分のメイクはできるけど舞台メイクは初めて、っていう人は、最初に何をやればいいの?" %}
+{% include character.html name="shine" position="left" text="で、あたしみたいに、自分のメイクはできるけど舞台メイクは初めて、っていう人は、最初に何をやればいいの?" %}
 
-**MISAKI:** **まず、顔を普段よりはっきりさせる。** そのために、**シェーディングやハイライトを、いつもより濃く、わかりやすく入れる。**
+**MISAKI:** まず顔を普段よりはっきりさせる。そのため、シェーディングやハイライトをいつもより濃くわかりやすくすることが大切です。
 
-{% include character.html name="shine" position="left" text="そっか、まず「はっきりさせる」が第一歩なんだ" %}
+{% include character.html name="shine" position="left" text="そっか、まず『はっきりさせる』が第一歩なんだ" %}
 
-**MISAKI:** うん。色やアイメイクの話は、その後でいい。**まずは骨格、まずは陰影。**
+色やアイメイクの話は、その後でいい。**まずは骨格、まずは陰影。**
 
 ---
 
 {% include character.html name="shine" position="left" text="教える前に、教える側が最低限知っておくべき基礎って何?" %}
 
-**MISAKI:** これは一個だけ。**同じメイクでも、人の顔の造りによって、やり方は変わる。**
+**MISAKI:** 同じメイクでも人の顔の造りによってメイクのやり方は変わります。
 
 {% include character.html name="shine" position="left" text="ひと言で言うと、それなんだ" %}
 
-**MISAKI:** うん。だから「このやり方が正解」って一個に決めないで、**その子の顔を見て、毎回ちょっとずつ変える。**
-
-{% include character.html name="shine" position="left" text="マニュアル化できないってことだね。スタイリングと一緒だわ" %}
-
-**MISAKI:** あ、それすごく近い。**スタイリングの感覚が分かってれば、メイクの考え方もすぐ馴染むと思う。**
+「このやり方が正解」という一つの型に押し込まないで、その子の顔を見て毎回ちょっとずつ変える。スタイリングの感覚に近い。
 
 ---
 
 {% include character.html name="shine" position="left" text="でもさ、本番で失敗するの怖いじゃん?完璧目指すと続かないし。失敗してもいいラインってどこ?" %}
 
-**MISAKI:** いい質問。
-
-{% include character.html name="shine" position="left" text="でしょ?(笑)" %}
-
-**MISAKI:** **全ての出来栄えが、左右対称じゃなくて大丈夫。** アイラインが滲んでいたり、マスカラが瞼についていたり、これくらいは気にしなくていい。
+**MISAKI:** 全ての出来栄えが左右対称じゃなくて大丈夫です。アイラインが滲んでいたり、マスカラが瞼についていたり、クオリティーを左右させる失敗以外は特に気にせずいきましょう!
 
 {% include character.html name="shine" position="left" text="えっ、滲んでてもOKなの!?" %}
 
-**MISAKI:** うん。**クオリティーを左右させる失敗以外は、特に気にせずいきましょう。**
+「クオリティーを左右させる失敗」とは、たとえばベースがまったく塗れず顔が飛んでいる、片側だけシェーディングが強すぎて顔が歪んで見える、といった **「全体の印象が崩れる」レベル** の失敗。細かい滲みやちょっとした非対称は、そのレベルには入らない。
 
-{% include character.html name="shine" position="left" text="クオリティーを左右させる失敗って、たとえば?" %}
-
-**MISAKI:** たとえば、ベースがまったく塗れてなくて顔が飛んじゃってる、とか。シェーディングが片側だけ強すぎて顔が歪んで見える、とか。**「全体の印象が崩れる」レベルの失敗。**
-
-{% include character.html name="shine" position="left" text="なるほど、細かいミスはOK、構造的なミスはダメってことね" %}
-
-**MISAKI:** そう。**細部より、全体。**
+{% include character.html name="shine" position="left" text="細部より、全体ってことね" %}
 
 ---
 
@@ -340,19 +294,13 @@ order: 6
 
 「みさちゃん、最後に、これだけは伝えてあげてっていうメッセージ、ある?」
 
-**MISAKI:** ある。
-
-{% include character.html name="shine" position="left" text="お願い、聞かせて" %}
-
-**MISAKI:** **「メイクの技術を完璧にすること」がゴールじゃなくて、「パフォーマンスに深みを出す」ことがゴール。** そのための色使い・丁寧さ・アイディアなど、事前準備が大切。
+**MISAKI:** 「メイクの技術を完璧にすること」がゴールではなく、「パフォーマンスに深みを出す」ことがゴールになります。そのための色使い・丁寧さ・アイディア等の事前準備が大切です。
 
 {% include character.html name="shine" position="left" text="…うわ、深い。なんかしみる" %}
 
-**MISAKI:** そして、もう一つ。**メイクの完成度を上げるには、慣れが一番大切。** 初めのうちは完璧でないことを気にしすぎず、**舞台メイクをやり続けることが大切。**
+**MISAKI:** メイクの完成度を上げるには慣れが一番大切です。初めのうちは完璧でないことを気にしすぎず、舞台メイクをやり続けることが大切です。
 
 {% include character.html name="shine" position="left" text="続けることが、一番なんだね" %}
-
-**MISAKI:** うん。最初から完璧な人なんて、誰もいないから。
 
 ---
 
