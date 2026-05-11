@@ -108,6 +108,9 @@ order: 6
 
 {% include character.html name="shine" position="left" text="アート…!!!みさちゃん、それカッコよすぎる" %}
 
+![舞台メイクを完成させた MISAKI]({{ '/assets/images/misaki-makeup-look-1.jpg' | relative_url }})
+<small>「表現したいものを顔に創り上げる」が形になった、MISAKIの舞台メイク。</small>
+
 ---
 
 ## 🦴 第三章: 顔を飛ばさない、骨格でつくるベース
@@ -131,6 +134,9 @@ order: 6
 {% include character.html name="shine" position="left" text="海外の方くらい!?確かに、海外モデルって顔の彫り深いもんね" %}
 
 日本人の顔は、もともと平面的に見えやすい。舞台ではさらに飛びやすくなる。だから、自分で立体感を「作りにいく」。
+
+![骨格にそった立体感を乗せたベースメイク]({{ '/assets/images/misaki-makeup-look-2.jpg' | relative_url }})
+<small>シェーディングとハイライトで陰影をしっかり乗せた状態。普段の2倍の濃さでちょうど良い。</small>
 
 ---
 
@@ -187,6 +193,9 @@ order: 6
 大変だけど、それがプロの仕事。同じメイクで全部のパフォーマンスをやると、表現の幅は広がらない。**舞台メイクは「表現の幅を広げるツール」** という、第二章の話とここで繋がる。
 
 {% include character.html name="shine" position="left" text="…さっきの話、ここに繋がるんだ。深っ" %}
+
+![テーマに合わせて変化させた MISAKI のメイク]({{ '/assets/images/misaki-makeup-look-3.jpg' | relative_url }})
+<small>同じ MISAKI でも、パフォーマンスのテーマに合わせて仕上がりを変える。これが「表現の幅」。</small>
 
 ---
 
