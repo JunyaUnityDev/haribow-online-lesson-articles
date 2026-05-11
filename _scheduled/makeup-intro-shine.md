@@ -253,7 +253,7 @@ order: 6
 
 **MISAKI:** 自分のメイクした顔がパフォーマンスでどう映ってるか、客観的に見ると、子供って **「あ、あたしカッコいい」** ってなるの。
 
-{% include character.html name="shine" position="left" text="それ、絶対なるやつじゃん…」 %}
+{% include character.html name="shine" position="left" text="それ、絶対なるやつじゃん…" %}
 
 **MISAKI:** その瞬間が、メイクを好きになる入口。だから、**褒めるのは具体的に。** 「目力すごいね」「ここの陰影、めっちゃキマってる」って。
 
@@ -265,11 +265,11 @@ order: 6
 
 **MISAKI:** ある。**ただ赤いリップとか、奇抜なリップを塗ること。**
 
-{% include character.html name="shine" position="left" text="赤リップ!?可愛いと思っちゃうけど…」 %}
+{% include character.html name="shine" position="left" text="赤リップ!?可愛いと思っちゃうけど…" %}
 
 **MISAKI:** 大人視点で「可愛い」と思って塗っちゃうのが、一番危ない。**人によっては、メイクが嫌になる原因になる。**
 
-{% include character.html name="shine" position="left" text="嫌になる…!!」 %}
+{% include character.html name="shine" position="left" text="嫌になる…!!" %}
 
 **MISAKI:** だから、**本人の意思を聞き入れることが、本当に大切。** 「これ塗ってみる?」って聞いて、嫌そうな顔したら、無理にやらせない。
 
@@ -314,11 +314,11 @@ order: 6
 
 **MISAKI:** いい質問。
 
-{% include character.html name="shine" position="left" text="でしょ?(笑)」 %}
+{% include character.html name="shine" position="left" text="でしょ?(笑)" %}
 
 **MISAKI:** **全ての出来栄えが、左右対称じゃなくて大丈夫。** アイラインが滲んでいたり、マスカラが瞼についていたり、これくらいは気にしなくていい。
 
-{% include character.html name="shine" position="left" text="えっ、滲んでてもOKなの!?」 %}
+{% include character.html name="shine" position="left" text="えっ、滲んでてもOKなの!?" %}
 
 **MISAKI:** うん。**クオリティーを左右させる失敗以外は、特に気にせずいきましょう。**
 
@@ -344,7 +344,7 @@ order: 6
 
 **MISAKI:** **「メイクの技術を完璧にすること」がゴールじゃなくて、「パフォーマンスに深みを出す」ことがゴール。** そのための色使い・丁寧さ・アイディアなど、事前準備が大切。
 
-{% include character.html name="shine" position="left" text="…うわ、深い。なんかしみる」 %}
+{% include character.html name="shine" position="left" text="…うわ、深い。なんかしみる" %}
 
 **MISAKI:** そして、もう一つ。**メイクの完成度を上げるには、慣れが一番大切。** 初めのうちは完璧でないことを気にしすぎず、**舞台メイクをやり続けることが大切。**
 
