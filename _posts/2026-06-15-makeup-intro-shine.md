@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "メイクは『新しい自分になる』ツール — MISAKIが教える、シャインへの舞台メイク講座"
-description: "HARIBOWプレイヤー兼メイク担当MISAKIが、シャインへ伝える舞台メイクの考え方と、子供（小学生〜高校生）へ教える時のヒント"
-date: 2026-05-11
-publish_date: 2026-06-15
+title: メイクは『新しい自分になる』ツール — MISAKIが教える、シャインへの舞台メイク講座
+description: HARIBOWプレイヤー兼メイク担当MISAKIが、シャインへ伝える舞台メイクの考え方と、子供（小学生〜高校生）へ教える時のヒント
+date: 2026-06-15
 category: technique
 slug: makeup-intro-shine
 order: 6
