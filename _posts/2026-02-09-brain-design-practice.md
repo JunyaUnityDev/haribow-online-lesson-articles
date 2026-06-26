@@ -320,9 +320,7 @@ order: 1
 
 これがハードルを最大限に下げる仕組みです。
 
-うまく動かない時は、こちらのスプレッドシートで直接⭕️を付けてください:
-
-[HARIBOW Online Lesson 練習記録](https://docs.google.com/spreadsheets/d/1jyPEfKEq9t6ug1tSMaOaV1V0mraHyuQZW_x2LknB4Xg/edit)
+上達ロードマップのあなた専用ページにも、練習を記録するボタンがあります。LINE「操作方法」から確認できます。
 
 ### なぜ、ここでハードルを上げてはいけないのか
 
