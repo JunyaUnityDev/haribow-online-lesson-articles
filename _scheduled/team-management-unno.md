@@ -3,7 +3,7 @@ layout: article
 title: "リーダーの一番大事な仕事は「決断すること」— HARIBOW社長 unno が語るチームの動かし方"
 description: "HARIBOW社長 unno が、リーダー歴で見つけたチームを動かす考え方。決断・ビジョン作り・意思決定・フィードバック・空気リセット術を語る。"
 date: 2026-05-28
-publish_date: 2027-03-15
+publish_date: 2027-04-15
 category: mindset
 slug: team-management-unno
 order: 16
