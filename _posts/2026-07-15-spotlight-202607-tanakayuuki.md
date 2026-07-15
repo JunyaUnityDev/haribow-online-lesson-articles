@@ -51,3 +51,13 @@ slug: spotlight-202607-tanakayuuki
 {% include character.html name="shine" position="right" text="それでいいんだよ! 田中くんみたいな存在がいるから、みんな引っ張られるじゃん。田中くん、本当にありがとう。これからも一緒に頑張ろうね" %}
 
 {% include character.html name="flekky" position="left" text="田中さん、マジかっこいいっす。オレも今夜から練習するっす…！（夜中3時は無理っすけど）" %}
+
+---
+
+{% include character.html name="flekky" position="left" text="オレ、フリッキー!19歳、ダブルダッチ歴1年8ヶ月の大学2年生っす。今回は今月のスポットライトメンバー・田中祐輝さんをシャインさんと一緒にご紹介する役っす!" %}
+
+**フリッキー(主人公)**
+
+{% include character.html name="shine" position="right" text="あたし、シャイン!25歳、沖縄出身、ダンサー兼スタイリスト兼ダブルダッチガチ勢、歴8年!今回はスポットライトメンバーの田中祐輝くんを、フリくんと一緒に全力で紹介する役!" %}
+
+**シャイン(陽キャの先輩)**
