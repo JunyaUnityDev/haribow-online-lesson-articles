@@ -2,8 +2,8 @@
 layout: article
 title: "今月のスポットライト: 関菜乃遥さん"
 description: "HARIBOW ONLINE LESSON 今月輝いていたメンバーをご紹介します"
-date: 2026-08-18
-publish_date: 2026-08-18
+date: 2026-08-15
+publish_date: 2026-08-15
 category: spotlight
 slug: spotlight-202608-kannanoharuka
 ---
