@@ -13,7 +13,11 @@ slug: spotlight-202608-kannanoharuka
 
 {% include character.html name="flekky" position="left" text="どんなところが素晴らしかったんですか？" %}
 
-{% include character.html name="shine" position="right" text="関菜乃遥さんは先月、ロードマップを4pt進めていました。着実に積み上げている姿が印象的でした。" %}
+{% include character.html name="shine" position="right" text="関菜乃遥さんね、これまでに109回も練習を積み重ねてきたんだよ。派手なことじゃなくて、毎日コツコツ、着実に。その積み重ねが今の動画にちゃんと出てるの" %}
+
+{% include character.html name="flekky" position="left" text="ひゃ、109回…！？やば、オレそんなに続けられる自信ないっす" %}
+
+{% include character.html name="shine" position="right" text="でしょ？一回一回は小さくても、続けられるのが一番の才能なんだよね。今回の連続スライドも、その積み上げがあってこそ。着実に前に進んでる人の動きって、見てて気持ちいいんだ" %}
 
 ---
 
