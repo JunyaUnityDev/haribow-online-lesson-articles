@@ -8,7 +8,7 @@ category: spotlight
 slug: spotlight-202607-tanakayuuki
 ---
 
-{% include character.html name="flekky" position="left" text="シャインさん、今月のスポットライトって誰っすか？JUNYAさんがなんかめちゃ興奮してたっすよ" %}
+{% include character.html name="flekky" position="left" text="シャインさん、今月のスポットライトって誰っすか？HARIBOWのみんながなんかめちゃ興奮してたっすよ" %}
 
 {% include character.html name="shine" position="right" text="それがさ、聞いて聞いて。田中祐輝くんなんだけど、ヤバくない? ヤバくない?" %}
 

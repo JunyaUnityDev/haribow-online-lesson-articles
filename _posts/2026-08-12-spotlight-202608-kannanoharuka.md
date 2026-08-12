@@ -7,7 +7,7 @@ category: spotlight
 slug: spotlight-202608-kannanoharuka
 ---
 
-{% include character.html name="flekky" position="left" text="あのー、JUNYAさんから聞いたんですけど、今月すごい方がいるって…" %}
+{% include character.html name="flekky" position="left" text="あのー、HARIBOWから聞いたんですけど、今月すごい方がいるって…" %}
 
 {% include character.html name="shine" position="right" text="そうなんです！今月のスポットライトは関菜乃遥さんです。動画を拝見して、本当に素晴らしいと思いました" %}
 
