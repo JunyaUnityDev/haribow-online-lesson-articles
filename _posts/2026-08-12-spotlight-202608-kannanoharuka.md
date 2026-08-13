@@ -24,7 +24,7 @@ slug: spotlight-202608-kannanoharuka
 ## 関菜乃遥さんの動画
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/1JwIzfA_SEs" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/faKsQCZoqQU" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
