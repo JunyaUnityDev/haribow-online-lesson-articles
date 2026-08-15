@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "2人の刑事が、女の子たちのために縄を作った話 — ダブルダッチの起源 前編 —"
-description: "1971年、ある刑事が公園で見たもの。街角の遊びが、Lincoln Center に立つまでの物語"
-date: 2026-05-01
-publish_date: 2026-08-15
+title: 2人の刑事が、女の子たちのために縄を作った話 — ダブルダッチの起源 前編 —
+description: 1971年、ある刑事が公園で見たもの。街角の遊びが、Lincoln Center に立つまでの物語
+date: 2026-08-15
 category: culture
 slug: dd-origin-part1
 order: 8
