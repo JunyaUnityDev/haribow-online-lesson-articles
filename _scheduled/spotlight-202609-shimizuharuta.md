@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "今月のスポットライト: 清水遥太さん"
-description: "練習記録171回。受講生でいちばん多く積み重ねてきた9歳のお話です"
+description: "練習記録171回。コツコツ積み重ねてきた9歳のお話です"
 date: 2026-09-10
 publish_date: 2026-09-18
 category: spotlight
@@ -16,9 +16,9 @@ slug: spotlight-202609-shimizuharuta
 
 {% include character.html name="shine" position="right" text="練習記録、171回。ヤバくない? ヤバくない?" %}
 
-{% include character.html name="flekky" position="left" text="171…!? それって多いんすか?" %}
+{% include character.html name="flekky" position="left" text="171…!? えっ、それ何の数っすか?" %}
 
-{% include character.html name="shine" position="right" text="受講生の中でいちばん多いの。しかも遥太くん、9歳だからね" %}
+{% include character.html name="shine" position="right" text="遥太くんが練習した日の数。しかも遥太くん、9歳だからね" %}
 
 {% include character.html name="flekky" position="left" text="9歳…! オレ9歳の時なんか、ランドセル振り回して帰ってただけっすよ" %}
 
