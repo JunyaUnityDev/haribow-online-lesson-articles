@@ -3,9 +3,18 @@ layout: article
 title: "今月のスポットライト: 清水遥太さん"
 description: "練習記録171回。コツコツ積み重ねてきた9歳のお話です"
 date: 2026-09-10
-publish_date: 2026-09-18
+publish_date: 2026-09-16
 category: spotlight
 slug: spotlight-202609-shimizuharuta
+line_message: |
+  ✨ 今月のスポットライト ✨
+
+  清水遥太さんです。
+
+  練習記録を171回、コツコツ積み重ねてきました。
+
+  詳しくはこちら
+  {url}
 ---
 
 {% include character.html name="flekky" position="left" text="シャインさん、今月のスポットライトって誰っすか？" %}
