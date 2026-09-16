@@ -18,7 +18,7 @@ slug: spotlight-202609-shimizuharuta
 
 {% include character.html name="flekky" position="left" text="171…!? それって多いんすか?" %}
 
-{% include character.html name="shine" position="right" text="受講生の中でいちばん多いの。2番目の子が127回だから、けっこう離してる。しかも遥太くん、9歳だからね" %}
+{% include character.html name="shine" position="right" text="受講生の中でいちばん多いの。しかも遥太くん、9歳だからね" %}
 
 {% include character.html name="flekky" position="left" text="9歳…! オレ9歳の時なんか、ランドセル振り回して帰ってただけっすよ" %}
 
