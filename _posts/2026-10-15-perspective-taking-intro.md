@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "相手の立場で考える、ってどういうことだろう — 人間関係の最初の一歩"
-description: "心理学が教える、相手を理解する2つの方法。そして、自分の気持ちにも正直になることの大切さ"
-date: 2026-05-01
-publish_date: 2026-10-15
+title: 相手の立場で考える、ってどういうことだろう — 人間関係の最初の一歩
+description: 心理学が教える、相手を理解する2つの方法。そして、自分の気持ちにも正直になることの大切さ
+date: 2026-10-15
 category: mindset
 slug: perspective-taking-intro
 order: 10
