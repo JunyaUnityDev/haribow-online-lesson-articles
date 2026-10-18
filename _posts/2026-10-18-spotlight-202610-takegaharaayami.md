@@ -3,7 +3,6 @@ layout: article
 title: '今月のスポットライト: 竹ヶ原彩心さん'
 description: 9月に動画を3本。大会の本番でフリーロープにも挑んだ9歳のお話です
 date: 2026-10-18
-publish_date: 2026-10-18
 category: spotlight
 slug: spotlight-202610-takegaharaayami
 line_message: '✨ 今月のスポットライト ✨
