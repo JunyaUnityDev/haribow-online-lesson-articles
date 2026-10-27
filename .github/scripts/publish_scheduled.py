@@ -31,7 +31,7 @@ GAS_WEBHOOK_URL = os.environ.get('GAS_WEBHOOK_URL', '')
 ARTICLE_PUBLISH_SECRET = os.environ.get('ARTICLE_PUBLISH_SECRET', '')
 SITE_BASE_URL = os.environ.get(
     'SITE_BASE_URL',
-    'https://junyaunitydev.github.io/haribow-online-lesson-articles'
+    'https://articles.haribow.com'
 )
 
 
