@@ -3,7 +3,7 @@ layout: article
 title: "シャインが教える、Bboyバトルの「裏会話」"
 description: "Bboyバトルで使われる18種類のジェスチャーの意味と、使う時の覚悟"
 date: 2026-05-01
-publish_date: 2027-04-15
+publish_date: 2027-03-15
 category: culture
 slug: bboy-gestures-guide
 order: 15
