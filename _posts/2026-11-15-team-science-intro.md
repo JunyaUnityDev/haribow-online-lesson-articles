@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "「うちのチーム、ダメだ…」と思った時に読む話 — 強いチームの科学"
-description: "Google が180チームを2年調べて見つけた、強いチームの5つの要素"
-date: 2026-05-01
-publish_date: 2026-11-15
+title: 「うちのチーム、ダメだ…」と思った時に読む話 — 強いチームの科学
+description: Google が180チームを2年調べて見つけた、強いチームの5つの要素
+date: 2026-11-15
 category: mindset
 slug: team-science-intro
 order: 11
